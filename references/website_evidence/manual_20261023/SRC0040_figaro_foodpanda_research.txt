@@ -1,0 +1,16 @@
+Evidence type: Analyst transcription from web retrieval
+Observation date: 2026-10-23
+Source URL: https://www.foodpanda.ph/restaurant/pz8b/figaro-coffee-waltermart-north-edsa
+Branch: Figaro Coffee - Waltermart North EDSA, Quezon City
+Channel: Foodpanda
+Page displayed Closed during retrieval.
+
+Classic Hot Coffee section:
+Americano: from PHP 148
+Spanish Latte: from PHP 185
+
+Classic Iced Coffee section:
+Iced Americano: from PHP 184
+Iced Spanish Latte: from PHP 209
+
+Limitations: Sizes unknown. Final options not tested. Plain Cafe Latte not identified in inspected listing. For reference descriptions not accepted as verified recipes. This is not a complete webpage capture.

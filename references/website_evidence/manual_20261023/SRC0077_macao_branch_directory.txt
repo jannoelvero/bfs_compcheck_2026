@@ -1,0 +1,10 @@
+Selected research transcription
+Retrieved: 2026-10-23
+URL: https://fredleygroup.com/macao-imperial-tea/
+
+branch_name,address,city,island_group
+SM City North EDSA,"CC 139 SM City North EDSA, North Ave Corner Bagong Pag-asa 1",Quezon City,Luzon
+Ayala Center Cebu,"Level 2, Ayala Center Cebu, Archbishop Reyes Ave, Cebu City, Cebu",Cebu City,Visayas
+SM City Davao,"Second Floor, SM City Davao, Quimpo Blvd cor. Tulip and Ecoland Drive, Ecoland Subd., Matina, Davao City",Davao City,Mindanao
+
+Official directory listings only. Current operation and store format unconfirmed. Selected transcription, not a full page capture.

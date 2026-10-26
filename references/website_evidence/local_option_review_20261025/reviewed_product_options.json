@@ -1,0 +1,34 @@
+[
+    {
+        "capture_id":"DETAIL0004",
+        "product_name":"Iced Americano",
+        "size_label":"Regular",
+        "displayed_price_php":50.0,
+        "larger_size_label":"UPsize",
+        "larger_size_surcharge_php":20.0,
+        "observed_date":"2026-10-25",
+        "verification_status":"Product options inspected; ounce size unresolved",
+        "source_url":"https:\/\/www.foodpanda.ph\/restaurant\/lwmi\/pickup-coffee-eco-oil-kalayaan-lwmi",
+        "site_id":"LOC0001",
+        "candidate_name":"PICKUP COFFEE - Total Kalayaan Ave.",
+        "larger_size_calculated_price_php":70.0,
+        "evidence_basis":"Analyst summary of direct browser inspection on 2026-10-25",
+        "qualification":"Named sizes only; ounce volumes unresolved; checkout not verified"
+    },
+    {
+        "capture_id":"DETAIL0014",
+        "product_name":"Iced Americano",
+        "size_label":"Grande",
+        "displayed_price_php":128.0,
+        "larger_size_label":"Venti",
+        "larger_size_surcharge_php":27.0,
+        "observed_date":"2026-10-25",
+        "verification_status":"Product options inspected; ounce size unresolved",
+        "source_url":"https:\/\/www.foodpanda.ph\/restaurant\/r2h5\/uncle-brew-prime-cdu-hospital",
+        "site_id":"LOC0003",
+        "candidate_name":"Uncle Brew - Prime, Cebu Doctors Hospital",
+        "larger_size_calculated_price_php":155.0,
+        "evidence_basis":"Analyst summary of direct browser inspection on 2026-10-25",
+        "qualification":"Named sizes only; ounce volumes unresolved; checkout not verified"
+    }
+]

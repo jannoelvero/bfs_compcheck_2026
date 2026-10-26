@@ -1,0 +1,10 @@
+Evidence type: Analyst transcription from web retrieval
+Observation date: 2026-10-23
+Source URL: https://www.foodpanda.ph/restaurant/a2kk/starbucks-one-ecom-center
+Branch: Starbucks - One Ecom Center, Pasay
+Channel: Foodpanda
+
+Caffe Americano: from PHP 180
+Caffe Latte: from PHP 190
+
+Limitations: Starting prices. Size and selected temperature not confirmed. Tall nutrition references do not establish price size. Final configurations not tested. Spanish Latte not identified in inspected listing. This is not a complete webpage capture.

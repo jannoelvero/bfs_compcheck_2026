@@ -1,0 +1,14 @@
+Inspection recorded at: 2026-10-23T18:25:22.291474+08:00
+Sample: SMP0071
+Branch: BRN0024
+Platform: Foodpanda
+URL: https://www.foodpanda.ph/restaurant/oixq/but-first-coffee-malingap-street/reviews
+Method: Assistant inspection of web retrieval.
+This file is an inspection note, not an original page capture.
+Written feedback and calendar dates were exposed.
+A Newest option was exposed, but its selected state and successful application were not confirmed.
+Displayed reviews were not chronologically ordered.
+Individual review ratings were not exposed in extracted text.
+Retrieval metadata indicated a crawl five months earlier.
+Current completeness and pagination were not established.
+No reviews imported. Collection remains incomplete.

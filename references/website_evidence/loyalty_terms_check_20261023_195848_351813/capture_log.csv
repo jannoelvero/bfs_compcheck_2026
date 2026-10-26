@@ -1,0 +1,4 @@
+brand_id,requested_url,captured_at,http_status,final_url,evidence_file,capture_status,notes
+BFC021,https://zuscoffee.ph/terms-and-condition/,2026-10-23T19:58:48.353159+08:00,200,https://zuscoffee.ph/terms-and-condition/,references/website_evidence/loyalty_terms_check_20261023_195848_351813/zus_terms.html,Downloaded; inspection pending,
+BFC002,https://pickup-coffee.com/terms-conditions,2026-10-23T19:58:48.626819+08:00,200,https://pickup-coffee.com/terms-conditions,references/website_evidence/loyalty_terms_check_20261023_195848_351813/pickup_terms.html,Downloaded; inspection pending,
+BFC002,https://d1r9lpkrafbxq0.cloudfront.net/strapi-cms-readable-media/tier_table_8634d4cdbf_a864866d61.png,2026-10-23T19:58:50.646155+08:00,200,https://d1r9lpkrafbxq0.cloudfront.net/strapi-cms-readable-media/tier_table_8634d4cdbf_a864866d61.png,references/website_evidence/loyalty_terms_check_20261023_195848_351813/pickup_rewards_table.png,Downloaded; inspection pending,

@@ -1,0 +1,15 @@
+Evidence type: Analyst transcription from web retrieval
+Observation date: 2026-10-23
+Source URL: https://www.foodpanda.ph/restaurant/cgqc/the-coffee-bean-and-tea-leaf-acienda-designer-outlets
+Branch: CBTL - Acienda Designer Outlets, Silang, Cavite
+Channel: Foodpanda
+Branch page displayed: Closed
+
+Americano: from PHP 185; description specifies hot water
+Iced Americano: from PHP 185
+Café Latte: from PHP 175; description specifies served hot
+Iced Café Latte: from PHP 200
+Hot Spanish Latte: PHP 270
+Iced Spanish Latte: PHP 270
+
+Limitations: Sizes unknown. Final options not tested. Closed does not establish permanent closure. Regular or promotional classification unresolved. This is not a complete webpage capture.

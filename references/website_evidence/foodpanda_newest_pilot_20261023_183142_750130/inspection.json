@@ -1,0 +1,59 @@
+{
+  "sample_id": "SMP0071",
+  "captured_at": "2026-10-23T18:31:42.750130+08:00",
+  "final_url": "https://www.foodpanda.ph/restaurant/oixq/but-first-coffee-malingap-street/reviews",
+  "http_status": 200,
+  "newest_clicked": false,
+  "newest_input_checked": false,
+  "review_order_verified": false,
+  "inspection_note": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Newest\", exact=True).first\n    - locator resolved to <label class=\"bds-c-pill__label\" for=\"NEXTGEN_REVIEWS_SORT_NEWEST\">Newest</label>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <input type=\"checkbox\" class=\"bds-c-pill__input\" id=\"NEXTGEN_REVIEWS_SORT_NEWEST\" data-testid=\"NEXTGEN_REVIEWS_SORT_NEWEST\"/> intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <input type=\"checkbox\" class=\"bds-c-pill__input\" id=\"NEXTGEN_REVIEWS_SORT_NEWEST\" data-testid=\"NEXTGEN_REVIEWS_SORT_NEWEST\"/> intercepts pointer events\n  - retrying click action\n    - waiting 100ms\n    - waiting for element to be visible, enabled and stable\n  - element was detached from the DOM, retrying\n    - locator resolved to <label class=\"bds-c-pill__label\" for=\"NEXTGEN_REVIEWS_SORT_NEWEST\">Newest</label>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <input type=\"checkbox\" class=\"bds-c-pill__input\" id=\"NEXTGEN_REVIEWS_SORT_NEWEST\" data-testid=\"NEXTGEN_REVIEWS_SORT_NEWEST\"/> intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <input type=\"checkbox\" class=\"bds-c-pill__input\" id=\"NEXTGEN_REVIEWS_SORT_NEWEST\" data-testid=\"NEXTGEN_REVIEWS_SORT_NEWEST\"/> intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    19 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <input type=\"checkbox\" class=\"bds-c-pill__input\" id=\"NEXTGEN_REVIEWS_SORT_NEWEST\" data-testid=\"NEXTGEN_REVIEWS_SORT_NEWEST\"/> intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n",
+  "modal_details": [
+    {
+      "text": "But First Coffee - Malingap Street\nReviews\n5\nAll ratings (1000+)\n5\n4\n3\n2\n1\nTop reviews\nNewest\nHighest rating\nLowest rating\n\nChris\n\n1 month ago\n\nYummy coffee\n\nHelpful\n\nEunice\n\n5 months ago\n\nGreat drink + followed my special requests also\n\nHelpful\n\nReviere\n\n6 months ago\n\nFavorite Coffee from But First!! 💯\n\nHelpful\n\nAngelika\n\n4 months ago\n\nsuper tapang ng coffee, i like it. kaso wala yung whipped cream na add ons ko haha\n\nHelpful\n\nGwyneth\n\n7 months ago\n\nGanun lang pala yung matcha strawberry nila. Nilagyan lang ng dried strawberry fruit. Tapos for me, lasang lasa mo na dahon yung matcha niya hindi tulad sa ibang branch na maayos. Nasad naman ako dito\n\nHelpful\n\nIDANG\n\n1 month ago\n\nDi standard serving nila. Kasi yung tres leches di naman shaken pero di puno. Sabi ng staff d daw tlga puno kasi shaken. DISAPPOINTED. Yung lasa walang special. NILAGYAN namin onting tubig para dumami\n\nHelpful\n\nCharles\n\n6 months ago\n\nNot a single shot was in my drinks. So….it’s coffee shop who don’t put coffee in their drinks. Cool.\n\nHelpful",
+      "buttons": [
+        {
+          "text": "",
+          "aria_label": "Close",
+          "title": null
+        },
+        {
+          "text": "Helpful",
+          "aria_label": null,
+          "title": null
+        },
+        {
+          "text": "Helpful",
+          "aria_label": null,
+          "title": null
+        },
+        {
+          "text": "Helpful",
+          "aria_label": null,
+          "title": null
+        },
+        {
+          "text": "Helpful",
+          "aria_label": null,
+          "title": null
+        },
+        {
+          "text": "Helpful",
+          "aria_label": null,
+          "title": null
+        },
+        {
+          "text": "Helpful",
+          "aria_label": null,
+          "title": null
+        },
+        {
+          "text": "Helpful",
+          "aria_label": null,
+          "title": null
+        }
+      ]
+    }
+  ],
+  "time_elements": [],
+  "reviews_imported": 0
+}

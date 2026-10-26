@@ -1,0 +1,2 @@
+source_id,captured_at,requested_url,final_url,http_status,evidence_file,capture_status,inspection_status,notes
+SRC0033,2026-10-23T18:24:52.738970+08:00,https://pickup-coffee.com/menu,https://pickup-coffee.com/menu,200,references/website_evidence/20261023_182452_738970/SRC0033.html,Downloaded,Accepted for product description only,

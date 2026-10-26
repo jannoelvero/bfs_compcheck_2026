@@ -1,0 +1,15 @@
+file,records_saved,columns_saved,status
+brand_coverage.csv,23,13,Descriptive analysis or readiness assessment
+coverage_summary.csv,10,5,Descriptive analysis or readiness assessment
+price_pairs.csv,12,11,Descriptive analysis or readiness assessment
+category_profile.csv,6,5,Descriptive analysis or readiness assessment
+brand_category_coverage.csv,23,9,Descriptive analysis or readiness assessment
+review_codebook.csv,8,2,Descriptive analysis or readiness assessment
+draft_review_codes.csv,36,7,Draft; analyst coding review pending
+draft_coded_reviews.csv,36,23,Draft; analyst coding review pending
+draft_topic_counts.csv,8,5,Draft; analyst coding review pending
+draft_sentiment_counts.csv,5,5,Draft; analyst coding review pending
+screening_summary.csv,7,2,Descriptive analysis or readiness assessment
+price_group_summary.csv,39,13,Descriptive analysis or readiness assessment
+size_price_pairs.csv,12,13,Descriptive analysis or readiness assessment
+hypothesis_readiness.csv,10,6,Descriptive analysis or readiness assessment

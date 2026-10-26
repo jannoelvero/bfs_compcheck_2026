@@ -1,0 +1,11 @@
+dataset,record_id,issue,treatment
+source_register,SRC0035,Menu request redirected to rewards,Retain audit record. Not accepted as menu or pricing evidence. Missing collection metadata remains unresolved.
+competitor_master,BFC004,Conflicting founding statements and missing verification date,Retain reported 2022 year and conflicting 2021 statement. Keep verification date missing. First store date unconfirmed.
+competitor_master,BFC005,Missing verification date,Retain partial verification and existing source qualifications. Do not infer a verification date from source collection dates.
+competitor_master,BFC012,Missing verification date,Retain partial verification and existing source qualifications. Do not infer a verification date from source collection dates.
+menu_pricing,MNU0078,Chatime Milk Tea promotional version,Retain alongside MNU0095. Different retrieved price versions. Do not interpret as a dated price change or combine as independent comparable prices.
+menu_pricing,MNU0095,Chatime Milk Tea recheck version,Retain alongside MNU0078. Effective price and promotion conditions remain unresolved.
+menu_pricing,MNU0079,Chatime Pearl Milk Tea promotional version,Retain alongside MNU0096. Different retrieved price versions. Do not interpret as a dated price change or combine as independent comparable prices.
+menu_pricing,MNU0096,Chatime Pearl Milk Tea recheck version,Retain alongside MNU0079. Effective price and promotion conditions remain unresolved.
+menu_pricing,MNU0034,Starbucks Latte supported by another capture,Retain alongside MNU0108 for traceability. Do not count both as independent price observations in a single comparison.
+menu_pricing,MNU0108,Starbucks Latte repeat capture,Retain alongside MNU0034 for traceability. Same displayed price does not resolve serving size.

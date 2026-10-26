@@ -1,0 +1,5 @@
+source_id,captured_at,requested_url,final_url,http_status,evidence_file,capture_status,inspection_status,notes
+SRC0025,2026-10-23T11:38:36.866234+08:00,https://zuscoffee.ph/,https://zuscoffee.ph/,200,references/website_evidence/20261023_113836_865446/SRC0025.html,Downloaded,Accepted for inspected statements,
+SRC0026,2026-10-23T11:38:37.382718+08:00,https://zuscoffee.ph/faq/,https://zuscoffee.ph/faq/,200,references/website_evidence/20261023_113836_865446/SRC0026.html,Downloaded,Accepted for inspected statements,
+SRC0027,2026-10-23T11:38:37.950269+08:00,https://starbucks.ph/about-us,https://starbucks.ph/about-us,200,references/website_evidence/20261023_113836_865446/SRC0027.html,Downloaded,Accepted for inspected statements,
+SRC0028,2026-10-23T11:38:39.843978+08:00,https://www.coffeebean.com.ph/,https://www.coffeebean.com.ph/,200,references/website_evidence/20261023_113836_865446/SRC0028.html,Downloaded,Accepted for inspected statements,

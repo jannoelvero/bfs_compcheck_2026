@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-10-25T07:59:39.341644+08:00",
+  "http_status": 200,
+  "category_checks": [
+    {
+      "category": "Milk Tea",
+      "selected_control_confirmed": true,
+      "final_url": "https://bigbrew.com.ph/products",
+      "http_status": 200,
+      "evidence_file": "references/website_evidence/bigbrew_categories_20261025_075939_341644/milk_tea.html",
+      "outcome": "Captured; product inspection pending"
+    },
+    {
+      "category": "Praf",
+      "selected_control_confirmed": true,
+      "final_url": "https://bigbrew.com.ph/products",
+      "http_status": 200,
+      "evidence_file": "references/website_evidence/bigbrew_categories_20261025_075939_341644/praf.html",
+      "outcome": "Captured; product inspection pending"
+    },
+    {
+      "category": "Coffee",
+      "selected_control_confirmed": true,
+      "final_url": "https://bigbrew.com.ph/products",
+      "http_status": 200,
+      "evidence_file": "references/website_evidence/bigbrew_categories_20261025_075939_341644/coffee.html",
+      "outcome": "Captured; product inspection pending"
+    },
+    {
+      "category": "Fruit Tea",
+      "selected_control_confirmed": true,
+      "final_url": "https://bigbrew.com.ph/products",
+      "http_status": 200,
+      "evidence_file": "references/website_evidence/bigbrew_categories_20261025_075939_341644/fruit_tea.html",
+      "outcome": "Captured; product inspection pending"
+    },
+    {
+      "category": "Brosty",
+      "selected_control_confirmed": true,
+      "final_url": "https://bigbrew.com.ph/products",
+      "http_status": 200,
+      "evidence_file": "references/website_evidence/bigbrew_categories_20261025_075939_341644/brosty.html",
+      "outcome": "Captured; product inspection pending"
+    }
+  ],
+  "observations_imported": 0
+}

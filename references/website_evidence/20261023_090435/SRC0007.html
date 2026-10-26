@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="/favicon.png">
+  <meta name="appstore:developer_url" content="https://www.tomoro-coffee.id/home" />
+  <meta name="appstore:bundle_id" content="com.tomoro.indonesia.ios-app" />
+  <meta name="appstore:store_id" content="1629441033" />
+  <!-- 测试环境 -->
+  <meta name="facebook-domain-verification" content="tq0zavrgez4w4a8khdxm01dh0a64mc" />
+  <!-- 生产环境 -->
+  <meta name="facebook-domain-verification" content="wj3qadi0z2xhu8q1qy7dpuvwsng7du" />
+  <title>
+    TOMORO COFFEE
+  </title>
+  <!-- home-page -->
+  <script>
+    (function (doc, win) {
+      var docEl = doc.documentElement,
+        resizeEvt = "orientationchange" in window ? "orientationchange" : "resize",
+        recalc = function () {
+          if (docEl.clientWidth > 750) {
+            // 平板的情况
+            docEl.style.fontSize = "100px";
+            // doc.getElementById("app").style.width = "auto";
+          } else {
+            var width = docEl.clientWidth / 7.5;
+            docEl.style.fontSize = width + "px";
+            // doc.getElementById("app").style.width = "auto";
+          }
+        };
+      if (!doc.addEventListener) return;
+      win.addEventListener(resizeEvt, recalc, false);
+      doc.addEventListener("DOMContentLoaded", recalc, false);
+    })(document, window);
+  </script>
+
+  <!-- Meta Pixel Code -->
+  <script>
+    !(function (f, b, e, v, n, t, s) {
+      if (f.fbq) return
+      n = f.fbq = function () {
+        n.callMethod
+          ? n.callMethod.apply(n, arguments)
+          : n.queue.push(arguments)
+      }
+      if (!f._fbq) f._fbq = n
+      n.push = n
+      n.loaded = !0
+      n.version = '2.0'
+      n.queue = []
+      t = b.createElement(e)
+      t.async = !0
+      t.src = v
+      s = b.getElementsByTagName(e)[0]
+      s.parentNode.insertBefore(t, s)
+    })(
+      window,
+      document,
+      'script',
+      'https://connect.facebook.net/en_US/fbevents.js',
+    )
+    fbq('init', '2375979242553732')
+    fbq('track', 'PageView')
+  </script>
+  <noscript>
+    <img
+      height="1"
+      width="1"
+      style="display: none;"
+      src="https://www.facebook.com/tr?id=2375979242553732&ev=PageView&noscript=1"
+    />
+  </noscript>
+  <!-- End Meta Pixel Code -->
+<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but home-page doesn't work properly without JavaScript enabled.
+        Please enable it to continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+{
+  "brand_id": "BFC023",
+  "existing_source_id": "SRC0038",
+  "vendor_code": "cgqc",
+  "requested_url": "https://www.foodpanda.ph/restaurant/cgqc/the-coffee-bean-and-tea-leaf-acienda-designer-outlets/reviews",
+  "final_url": "https://www.foodpanda.ph/restaurant/cgqc/the-coffee-bean-and-tea-leaf-acienda-designer-outlets/reviews",
+  "captured_at": "2026-10-23T19:18:22.091687+08:00",
+  "http_status": 403,
+  "review_panel_found": false,
+  "selected_controls": "",
+  "capture_outcome": "Access blocked; batch stopped",
+  "evidence_folder": "references/website_evidence/foodpanda_reviews_batch_20261023_191814_283107/cgqc",
+  "notes": ""
+}

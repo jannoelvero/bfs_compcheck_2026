@@ -1,0 +1,531 @@
+Menu
+Protein
+Stores
+Franchise
+Club
+App
+About Us
+PH
+Menu
+Protein
+Stores
+Franchise
+Club
+App
+About Us
+PH
+OUR MENU
+At 
+, 
+it's always premium
+expresso in every cup.
+OUR SIGNATURES
+KAPE KASTILA
+
+Leche condensada with creamy milk and rich espresso. Also available hot.
+
+OUR MENU
+SIGNATURES
+ESPRESSO-BASED
+PISTACHIO
+MILK-BASED
+PURE MATCHA GOODNESS
+FRUIT TEAS
+YOGURT
+FRAPPES
+PICKUP BITES
+PROTEIN UP
+SUGAR-FREE
+PROUDLY OURS
+OATMILK
+SIGNATURES
+KAPE KASTILA
+
+Leche condensada with creamy milk and rich espresso. Also available hot.
+
+PHP 75
+
+ICED WHITE MOCHA LATTE
+
+White chocolate with our creamy milk blend and rich espresso, also available hot.
+
+PHP 89
+
+ICED CARAMEL MACCHIATO
+
+Rich espresso with creamy milk and caramel, also available hot.
+
+PHP 89
+
+PICKUP CRÈME LATTE
+
+A PICKUP Original Latte made with rich espresso and caramelized custard crème, topped with a Crème Brûlée foam. Proudly our crème de la crème!
+
+PHP 95
+
+ESPRESSO-BASED
+CAPPUCCINO
+
+Rich espresso with hot steamed milk and foam.
+
+PHP 75
+
+ICED BROWN SUGAR LATTE
+
+Rich espresso with creamy milk and brown molasses syrup, also available hot.
+
+PHP 79
+
+SEA SALT BISCOFF LATTE
+
+Rich espresso with creamy milk, Biscoff cookie bits, topped with sea salt cream mousse.
+
+PHP 115
+
+ICED SEA SALT LATTE
+
+Rich espresso with creamy milk, topped with sea salt milk foam.
+
+PHP 89
+
+VIETNAMESE LATTE
+
+A strong blend of rich espresso with leche condensada.
+
+PHP 79
+
+ICED VANILLA LATTE
+
+A velvety blend of creamy vanilla with milk and rich espresso, also available hot.
+
+PHP 85
+
+AMERICANO
+
+Rich espresso with water. Also available hot.
+
+PHP 50
+
+ICED DARK CHOCOLATE LATTE
+
+Dark chocolate with creamy milk and rich espresso, also available hot.
+
+PHP 85
+
+FLAT WHITE
+
+Rich espresso with hot steamed milk.
+
+PHP 75
+
+ICED LATTE
+
+Rich espresso with creamy milk. Also available hot.
+
+PHP 75
+
+ESPRESSO
+
+A double shot of rich espresso.
+
+PHP 30
+
+ICED HAZELNUT LATTE
+
+Rich espresso with creamy milk and Nutella. Also available hot.
+
+PHP 95
+
+PISTACHIO
+SEA SALT PISTACHIO MILK
+
+Creamy milk with rich pistachio, topped with sea salt milk foam.
+
+PHP 119
+
+HOT AURO CHOCOLATE PISTACHIO LATTE
+
+Hot steamed milk with rich pistachio, Auro’s 100% Natural Cacao Powder, and bold espresso.
+
+PHP 129
+
+HOT AURO CHOCOLATE PISTACHIO MILK
+
+Hot steamed milk with rich pistachio and Auro's 100% Natural Cacao Powder.
+
+PHP 109
+
+HOT PISTACHIO LATTE
+
+Hot steamed milk with rich pistachio and bold espresso.
+
+PHP 119
+
+ICED AURO CHOCOLATE PISTACHIO LATTE
+
+Creamy milk with rich pistachio and Auro's 100% Natural Cacao Powder.
+
+PHP 129
+
+ICED PISTACHIO MILK
+
+Creamy milk with rich pistachio, over ice.
+
+PHP 99
+
+ICED AURO CHOCOLATE PISTACHIO MILK
+
+Creamy milk with rich pistachio and Auro's 100% Natural Cacao Powder, over ice.
+
+PHP 99
+
+HOT PISTACHIO MILK
+
+Hot steamed milk with rich pistachio.
+
+PHP 119
+
+ICED PISTACHIO LATTE
+
+Creamy milk with rich pistachio and bold espresso, over ice.
+
+PHP 119
+
+MILK-BASED
+SEA SALT BISCOFF MILK
+
+Creamy milk with Biscoff cookie bits, topped with sea salt cream mousse, over ice.
+
+PHP 99
+
+CLASSIC MILK TEA
+
+Creamy milk with black tea and boba pearls. Our take on a classic Milk Tea.
+
+PHP 70
+
+BROWN SUGAR BOBA MILK
+
+Creamy milk, brown sugar and boba pearls, topped with cream mousse.
+
+PHP 75
+
+MILOSAURUS
+
+Milo with creamy milk and cream mousse. Our take on the classic Milo Dinosaur.
+
+PHP 79
+
+CLASSIC CHOCOLATE MILK
+
+Creamy milk with rich chocolate, also available hot.
+
+PHP 75
+
+ICED UBE MILK
+
+Creamy milk with rich ube. A special bevarage using a Filipino favorite, also available hot.
+
+PHP 75
+
+PURE MATCHA GOODNESS
+ICED MATCHA
+
+Matcha with creamy milk.
+
+PHP 85
+
+ICED WHITE CHOCOLATE MATCHA
+
+Matcha and white chocolate blended with creamy milk, also available hot.
+
+PHP 99
+
+HOT WHITE CHOCOLATE MATCHA
+
+Matcha and white chocolate blended with hot steamed milk.
+
+PHP 99
+
+STRAWBERRY MATCHA
+
+Matcha and strawberry with creamy milk.
+
+PHP 95
+
+SEA SALT CREAM MATCHA
+
+Matcha with creamy milk, topped with sea salt milk foam, over ice.
+
+PHP 99
+
+FRUIT TEAS
+APPLE ICED TEA
+
+Brewed black tea infused with our refreshing apple twist.
+
+PHP 79
+
+PEACHY ICED TEA
+
+Brewed black tea infused with our refreshing peach twist.
+
+PHP 79
+
+MIXED BERRIES ICED TEA
+
+Brewed black tea infused with our refreshing mixed berries twist, over ice.
+
+PHP 79
+
+LYCHEE ICED TEA
+
+Brewed black tea infused with our refreshing lychee twist
+
+PHP 79
+
+HONEY LEMON ICED TEA
+
+Brewed black tea infused with our refreshing honey lemon twist, over ice.
+
+PHP 79
+
+YOGURT
+WATERMELON CRAZE YOGURT
+
+A refreshing blend of yogurt and watermelon, over ice.
+
+PHP 99
+
+MANGO MADNESS YOGURT
+
+A tropical blend of yogurt and mango.
+
+PHP 95
+
+BERRY BLAST YOGURT
+
+A berrylicious yogurt blend of blueberry, cranberry, pomegranate, and black currant
+
+PHP 99
+
+FRAPPES
+WHITE MOCHA FRAPPE
+
+Rich espresso and white chocolate, ice-blended with creamy milk, topped with whipped cream.
+
+PHP 109
+
+MATCHA FRAPPE
+
+Pure matcha, ice-blended with creamy milk, topped with whipped cream.
+
+PHP 115
+
+TRIPLE CHOCO CHIP FRAPPE
+
+Dark chocolate, ice-blended with milk chocolate chips and creamy milk, topped with whipped cream.
+
+PHP 115
+
+OREO FRAPPE
+
+Oreo, ice-blended with creamy milk, topped with whipped cream.
+
+PHP 115
+
+KAPE KASTILA FRAPPE
+
+Rich espresso and leche condensada, ice-blended with creamy milk, topped with whipped cream. Our take on a "Spanish Latte" frappe.
+
+PHP 99
+
+CAFE MOCHA CHIP FRAPPE
+
+Rich espresso and dark chocolate, ice-blended with milk chocolate chips and creamy milk, topped with whipped cream.
+
+PHP 115
+
+BROWN SUGAR COFFEE JELLY FRAPPE
+
+Rich espresso and brown molasses syrup, ice-blended with creamy milk, with a base of coffee jelly, topped with whipped cream.
+
+PHP 129
+
+CARAMEL FRAPPE
+
+Rich espresso and buttery caramel, ice-blended with creamy milk, topped with whipped cream and caramel drizzle
+
+PHP 99
+
+PICKUP BITES
+CHOCOLATE CROISSANT
+
+A flaky and buttery croissant, rolled with dark chocolate.
+
+PHP 89
+
+CLASSIC CHOCO COOKIE
+
+An indulgent cookie with dark chocolate chunks, seasoned with sea salt.
+
+PHP 109
+
+CLASSIC CROISSANT
+
+A flaky and buttery croissant.
+
+PHP 80
+
+TRIPLE CHOCOLATE COOKIE
+
+An indulgent chocolate cookie with white and dark chocolate chunks.
+
+PHP 119
+
+OATMEAL COOKIE
+
+A chewy oatmeal cookie with a sprinkle of cinnamon.
+
+PHP 99
+
+PROTEIN UP
+STRAWBERRY PROTEIN MILK
+
+Strawberry fruit bits with creamy milk and a boost of Wheyl protein, over ice
+
+PHP 145
+
+PROTEIN LATTE
+
+Bold expresso with creamy milk and a boost of Wheyl protein, over ice
+
+PHP 145
+
+DARK CHOCOLATE PROTEIN MILK
+
+Rich dark chocolate with creamy milk and a boost of Wheyl protein, over ice
+
+PHP 155
+
+MATCHA PROTEIN MILK
+
+Earthy matcha with creamy milk and a boost of Wheyl protein, over ice.
+
+PHP 155
+
+SUGAR-FREE
+ICED SUGAR-FREE SWEET AMERICANO
+
+Rich espresso with water and sugar-free sweetener, over ice.
+
+PHP 59
+
+HOT SUGAR-FREE SWEET MATCHA
+
+Matcha with water and sugar-free sweetener.
+
+PHP 89
+
+ICED SUGAR-FREE SWEET MATCHA
+
+Matcha with water and sugar-free sweetener, over ice.
+
+PHP 89
+
+HOT SUGAR-FREE SWEET AMERICANO
+
+Rich espresso with water and sugar-free sweetener.
+
+PHP 59
+
+PROUDLY OURS
+MANGO GRAHAM
+
+Creamy milk with sweet mango bits, topped with cream mousse and crushed graham, over ice. Our take on the classic Filipino homemade dessert.
+
+PHP 99
+
+AURO TSOKOLATTE
+
+Creamy milk with Auro's rich 100% Natural Cacao Powder and espresso, over ice. Familiar and inspired by the classic Filipino batirol. Also available hot.
+
+PHP 99
+
+PEANUT BRITTLE LATTE
+
+Creamy milk with real peanut brittle spread and espresso, over ice. Our take on the classic Filipino peanut brittle candy pasalubong. Also available hot.
+
+PHP 109
+
+UBE CHEESE CREAM MILK
+
+Creamy milk with rich ube, topped with cheese cream, over ice. Our take on classic Filipino favorites: Ube and Keso (cheese) sorbetes. Also available hot.
+
+PHP 99
+
+OATMILK
+HOT UBE OATMILK
+
+Hot steamed oatmilk with rich ube. A special beverage using a Filipino favorite.
+
+PHP 99
+
+ICED UBE OATMILK
+
+Creamy oatmilk with rich ube, over ice. A special beverage using a Filipino favorite.
+
+PHP 99
+
+ICED OATMILK LATTE
+
+Rich espresso with creamy oatmilk, over ice.
+
+PHP 95
+
+ICED SEA SALT OATMILK LATTE
+
+Rich espresso with creamy oatmilk, topped with sea salt milk foam, over ice.
+
+PHP 99
+
+HOT MATCHA OATMILK
+
+Matcha with hot steamed oatmilk.
+
+PHP 99
+
+DOWNLOAD
+
+THE
+APP
+
+Download our app to get exclusive perks that get
+better with every cup.
+
+JOIN THE
+
+CLUB
+
+Redeem  points to earn rewards, level up, and unlock exclusive perks per tier!
+
+Exclusive Discounts
+Special birthday treats
+VIP member benefits
+More about
+Club
+Menu
+Stores
+Club
+App
+About us
+Careers
+Privacy Policies
+Terms of use
+©
+all rights reserved
+News
+
+Stay updated with the latest stories.
+
+Read Now

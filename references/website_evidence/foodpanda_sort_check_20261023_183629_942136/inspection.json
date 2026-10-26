@@ -1,0 +1,37 @@
+{
+  "sample_id": "SMP0071",
+  "captured_at": "2026-10-23T18:36:29.942136+08:00",
+  "http_status": 200,
+  "final_url": "https://www.foodpanda.ph/restaurant/oixq/but-first-coffee-malingap-street/reviews",
+  "click_completed": true,
+  "panel_text_changed": true,
+  "controls_after_click": [
+    {
+      "id": "NEXTGEN_REVIEWS_TOPREVIEWS",
+      "type": "checkbox",
+      "checked": true,
+      "aria_checked": null
+    },
+    {
+      "id": "NEXTGEN_REVIEWS_SORT_NEWEST",
+      "type": "checkbox",
+      "checked": false,
+      "aria_checked": null
+    },
+    {
+      "id": "NEXTGEN_REVIEWS_SORT_HIGHEST",
+      "type": "checkbox",
+      "checked": false,
+      "aria_checked": null
+    },
+    {
+      "id": "NEXTGEN_REVIEWS_SORT_LOWEST",
+      "type": "checkbox",
+      "checked": false,
+      "aria_checked": null
+    }
+  ],
+  "action_error": "",
+  "sorting_verified": false,
+  "reviews_imported": 0
+}

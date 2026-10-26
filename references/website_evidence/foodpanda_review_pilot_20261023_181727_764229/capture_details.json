@@ -1,0 +1,11 @@
+{
+  "sample_id": "SMP0071",
+  "requested_url": "https://www.foodpanda.ph/restaurant/oixq/but-first-coffee-malingap-street/reviews",
+  "final_url": "https://www.foodpanda.ph/restaurant/oixq/but-first-coffee-malingap-street/reviews",
+  "captured_at": "2026-10-23T18:17:27.764229+08:00",
+  "http_status": 403,
+  "content_type": "text/html",
+  "response_bytes": 4599,
+  "method": "requests",
+  "inspection_status": "Pilot inspection only"
+}

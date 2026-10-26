@@ -1,0 +1,13 @@
+comparison_group,temperature,size_label_standardised,channel,observation_id_bfc,source_id_bfc,displayed_price_php_bfc,observation_id_cbtl,source_id_cbtl,displayed_price_php_cbtl,cbtl_minus_bfc_php,gap_pct_of_cbtl_price,comparison_status
+Americano,Hot,12oz,Official website,MNU0004,SRC0030,110.0,MNU0112,SRC0121,140.0,30.0,21.428571428571427,"Candidate; equivalence, freshness and branch applicability unresolved"
+Americano,Hot,16oz,Official website,MNU0005,SRC0030,120.0,MNU0113,SRC0121,155.0,35.0,22.58064516129032,"Candidate; equivalence, freshness and branch applicability unresolved"
+Cafe latte,Hot,12oz,Official website,MNU0016,SRC0031,130.0,MNU0118,SRC0121,135.0,5.0,3.7037037037037033,"Candidate; equivalence, freshness and branch applicability unresolved"
+Cafe latte,Hot,16oz,Official website,MNU0017,SRC0031,140.0,MNU0119,SRC0121,150.0,10.0,6.666666666666667,"Candidate; equivalence, freshness and branch applicability unresolved"
+Spanish latte,Hot,12oz,Official website,MNU0023,SRC0032,130.0,MNU0124,SRC0121,175.0,45.0,25.71428571428571,"Candidate; equivalence, freshness and branch applicability unresolved"
+Spanish latte,Hot,16oz,Official website,MNU0024,SRC0032,140.0,MNU0125,SRC0121,185.0,45.0,24.324324324324326,"Candidate; equivalence, freshness and branch applicability unresolved"
+Americano,Iced,12oz,Official website,MNU0008,SRC0030,110.0,MNU0115,SRC0121,140.0,30.0,21.428571428571427,"Candidate; equivalence, freshness and branch applicability unresolved"
+Americano,Iced,16oz,Official website,MNU0009,SRC0030,120.0,MNU0116,SRC0121,155.0,35.0,22.58064516129032,"Candidate; equivalence, freshness and branch applicability unresolved"
+Cafe latte,Iced,12oz,Official website,MNU0014,SRC0031,130.0,MNU0121,SRC0121,135.0,5.0,3.7037037037037033,"Candidate; equivalence, freshness and branch applicability unresolved"
+Cafe latte,Iced,16oz,Official website,MNU0015,SRC0031,140.0,MNU0122,SRC0121,150.0,10.0,6.666666666666667,"Candidate; equivalence, freshness and branch applicability unresolved"
+Spanish latte,Iced,12oz,Official website,MNU0021,SRC0032,130.0,MNU0127,SRC0121,175.0,45.0,25.71428571428571,"Candidate; equivalence, freshness and branch applicability unresolved"
+Spanish latte,Iced,16oz,Official website,MNU0022,SRC0032,140.0,MNU0128,SRC0121,185.0,45.0,24.324324324324326,"Candidate; equivalence, freshness and branch applicability unresolved"

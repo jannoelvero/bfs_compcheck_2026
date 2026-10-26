@@ -1,0 +1,11 @@
+Evidence type: Analyst transcription from web retrieval
+Observation date: 2026-10-23
+Source URL: https://www.foodpanda.ph/restaurant/e0fz/bos-coffee-central-bloc
+Branch: Bo's Coffee - Central Bloc, Cebu City
+Channel: Foodpanda
+Page displayed Closed and 40 percent off selected items.
+
+Caffe Americano: from PHP 111; accompanying price PHP 185
+Caffe Latte: from PHP 123; accompanying price PHP 205
+
+Sizes and selected temperatures unresolved. Medium nutrition references do not establish price size. Final options and promotion eligibility not tested. Higher figures retained as platform reference prices. This is not a full webpage capture.

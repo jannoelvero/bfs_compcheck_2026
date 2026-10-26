@@ -1,0 +1,5 @@
+prediction_target,research_question_ids,evidence_limitation,decision,required_data
+Future comparable menu price,RQ01;RQ10,No repeated series of verified comparable prices.,Deferred,"Comparable dated prices across multiple periods, with enough history for chronological evaluation."
+Customer comment sentiment,RQ05,Only 36 platform selected comments. Labels remain provisional and related comments may share a branch.,Deferred,"A larger documented sample, reviewed labels and evaluation appropriate to the intended prediction use."
+Sales or franchise conversion,RQ08;RQ09,No recorded sales outcomes or lead conversion outcomes.,Deferred,"Authorized dated transactions or lead histories, outcomes and inputs available before each outcome."
+Price difference from its component prices,RQ01,The outcome is exactly calculated from the proposed inputs.,Use direct calculation,No model required. Retain the documented price formula.

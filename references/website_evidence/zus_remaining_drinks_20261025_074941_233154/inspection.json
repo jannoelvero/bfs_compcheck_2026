@@ -1,0 +1,20 @@
+{
+  "captured_at": "2026-10-25T07:49:41.233154+08:00",
+  "pages": [
+    {
+      "requested_url": "https://zuscoffee.ph/category/drinks/page/2/",
+      "final_url": "https://zuscoffee.ph/category/drinks/page/2/",
+      "http_status": 200,
+      "file_label": "linked_page_1",
+      "inspection_status": "Pending content review"
+    },
+    {
+      "requested_url": "https://zuscoffee.ph/category/drinks/page/3/",
+      "final_url": "https://zuscoffee.ph/category/drinks/page/3/",
+      "http_status": 200,
+      "file_label": "linked_page_2",
+      "inspection_status": "Pending content review"
+    }
+  ],
+  "observations_imported": 0
+}

@@ -1,0 +1,4 @@
+source_id,captured_at,requested_url,final_url,http_status,evidence_file,capture_status,inspection_status,notes
+SRC0016,2026-10-23T11:31:21.155832+08:00,https://chatime.com.ph/chatime-franchise/,https://chatime.com.ph/chatime-franchise/,200,references/website_evidence/20261023_113121_155086/SRC0016.html,Downloaded,Accepted for inspected statements,
+SRC0017,2026-10-23T11:31:22.401975+08:00,https://gongcha.ph/,https://gongcha.ph/,200,references/website_evidence/20261023_113121_155086/SRC0017.html,Downloaded,Accepted for inspected statements,
+SRC0018,2026-10-23T11:31:25.151658+08:00,https://gongcha.ph/our-story/,https://gongcha.ph/our-story/,200,references/website_evidence/20261023_113121_155086/SRC0018.html,Downloaded,Accepted for inspected statements,

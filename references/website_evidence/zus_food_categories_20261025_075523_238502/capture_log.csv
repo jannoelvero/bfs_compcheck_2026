@@ -1,0 +1,5 @@
+category,requested_url,final_url,http_status,evidence_file,inspection_status
+Pastry,https://zuscoffee.ph/category/food/pastry/,https://zuscoffee.ph/category/food/pastry/,200,references/website_evidence/zus_food_categories_20261025_075523_238502/pastry.html,Pending product and pagination review
+Buns,https://zuscoffee.ph/category/food/buns/,https://zuscoffee.ph/category/food/buns/,200,references/website_evidence/zus_food_categories_20261025_075523_238502/buns.html,Pending product and pagination review
+Cakes,https://zuscoffee.ph/category/food/cakes/,https://zuscoffee.ph/category/food/cakes/,200,references/website_evidence/zus_food_categories_20261025_075523_238502/cakes.html,Pending product and pagination review
+Hot Meals,https://zuscoffee.ph/category/food/hot-meals/,https://zuscoffee.ph/category/food/hot-meals/,200,references/website_evidence/zus_food_categories_20261025_075523_238502/hot_meals.html,Pending product and pagination review

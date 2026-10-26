@@ -1,0 +1,17 @@
+Evidence type: Analyst transcription from web retrieval
+Observation date: 2026-10-23
+Source URL: https://www.foodpanda.ph/restaurant/oxmn/dunkin-xentro-mall-sampaloc
+Branch: Dunkin' - Xentro Mall Sampaloc, Manila
+Channel: Foodpanda
+
+Hot Beverages section:
+Café Americano 12oz: PHP 115; description states 12oz
+Hot Latte Small: PHP 115; volume not stated
+Spanish Latte Medium: PHP 181; description states 12 oz
+
+Cold Beverages section:
+Ice Americano: from PHP 99; size not stated
+Iced Latte: from PHP 132; size not stated
+Iced Spanish Latte: from PHP 170; size not stated
+
+Limitations: Final options not tested. Regular or promotional classification unresolved. This is not a complete webpage capture.

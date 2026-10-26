@@ -1,0 +1,4 @@
+product_name,requested_url,final_url,http_status,page_title,evidence_file,outcome
+Zirty Matcha,https://zuscoffee.ph/zirty-matcha/,https://zuscoffee.ph/zirty-matcha/,200,Zirty Matcha - ZUS Coffee,references/website_evidence/zus_product_descriptions_20261025_075324_623228/zirty-matcha.html,Downloaded; content inspection pending
+Thunder,https://zuscoffee.ph/thunder/,https://zuscoffee.ph/thunder/,200,Thunder - ZUS Coffee,references/website_evidence/zus_product_descriptions_20261025_075324_623228/thunder.html,Downloaded; content inspection pending
+CEO Latté,https://zuscoffee.ph/ceo-latte/,https://zuscoffee.ph/ceo-latte/,200,CEO Latté - ZUS Coffee,references/website_evidence/zus_product_descriptions_20261025_075324_623228/ceo-latte.html,Downloaded; content inspection pending

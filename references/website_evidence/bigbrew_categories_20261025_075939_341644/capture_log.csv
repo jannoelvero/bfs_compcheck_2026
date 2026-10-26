@@ -1,0 +1,6 @@
+category,selected_control_confirmed,final_url,http_status,evidence_file,outcome
+Milk Tea,True,https://bigbrew.com.ph/products,200,references/website_evidence/bigbrew_categories_20261025_075939_341644/milk_tea.html,Captured; product inspection pending
+Praf,True,https://bigbrew.com.ph/products,200,references/website_evidence/bigbrew_categories_20261025_075939_341644/praf.html,Captured; product inspection pending
+Coffee,True,https://bigbrew.com.ph/products,200,references/website_evidence/bigbrew_categories_20261025_075939_341644/coffee.html,Captured; product inspection pending
+Fruit Tea,True,https://bigbrew.com.ph/products,200,references/website_evidence/bigbrew_categories_20261025_075939_341644/fruit_tea.html,Captured; product inspection pending
+Brosty,True,https://bigbrew.com.ph/products,200,references/website_evidence/bigbrew_categories_20261025_075939_341644/brosty.html,Captured; product inspection pending

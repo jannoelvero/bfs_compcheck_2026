@@ -1,0 +1,37 @@
+review_id,overall_sentiment,topics,coding_note,coding_method,coding_status,analysis_status
+REV0001,Positive,Product quality,Praises coffee taste.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0002,Positive,Product quality;Order accuracy,Praises drink and adherence to requests.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0003,Positive,General feedback,Expresses preference without a specific quality attribute.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0004,Mixed,Product quality;Order accuracy,Likes strong coffee but reports missing whipped cream.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0005,Negative,Product quality;Consistency,Criticises matcha and compares it with another branch.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0006,Negative,Product quality;Portion and ice;Consistency,"Criticises taste, fill level and serving standardisation.",Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0007,Negative,Product quality,Alleges missing espresso; this is not independently verified.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0008,Mixed,Product quality;Consistency,Praises Taft and criticises Cebu. Mixed scope; not solely a Taft complaint.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0009,Positive,Product quality;Packaging and accessories;Consistency,Praises taste and consistently good packing.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0010,Positive,Product quality,Recommends strawberry drinks for taste.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0011,Positive,Product quality,Coffee remained hot. Late pickup is attributed to the customer.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0012,Positive,General feedback,General approval without a specific attribute.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0013,Positive,Product quality,Praises matcha flavour and preparation.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0014,Negative,Product quality;Portion and ice,Reports little chocolate filling in the pastry.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0015,Negative,Product quality,Criticises sweetness.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0016,Negative,Portion and ice;Consistency,Reports a lower fill level than previous orders.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0017,Negative,Order accuracy,Reports receiving iced instead of extra hot.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0018,Negative,Order accuracy;Consistency,Reports a repeated omission. The missing component is not explicitly named.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0019,Negative,Product quality;Portion and ice;Order accuracy,"Criticises sweetness, ice and apparent failure to follow instructions.",Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0020,Negative,Order accuracy,Reports receiving the wrong drinks.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0021,Negative,Product quality;Order accuracy,Criticises sweetness despite a less sweet instruction.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0022,Positive,Packaging and accessories;Order accuracy,Praises packing and order completeness.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0023,Positive,Timing;Staff service,Praises preparation timing and staff assistance.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0024,Positive,Timing;Order accuracy,Praises delivery speed and adherence to instructions.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0025,Negative,Product quality;Consistency,Reports an unusual taste compared with the usual drink.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0026,Negative,Portion and ice,Criticises insufficient ice.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0027,Unclear,Product quality,Strong coffee is described without an explicit preference.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0028,Negative,Packaging and accessories,Reports a missing straw.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0029,Negative,Product quality,"Criticises hard and burnt flatbread. Delivery duration is context, not a stated delay.",Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0030,Negative,Order accuracy;Packaging and accessories,Reports missing coffee jelly additions and insufficient straws.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0031,Negative,Order accuracy,Expresses dissatisfaction about the sugar instruction.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0032,Negative,Order accuracy,Reports incorrect size allocation.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0033,Negative,Order accuracy,Reports missing requested whipped cream.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0034,Negative,Order accuracy;Packaging and accessories,Questions received size and reports a missing straw. Expected size is unspecified.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0035,Negative,Order accuracy,Reports an incomplete order without identifying the missing item.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending
+REV0036,Negative,Product quality;Consistency,Reports unusually bland mocha compared with the usual order.,Assistant proposed interpretation,Draft; analyst review pending,Draft; analyst coding review pending

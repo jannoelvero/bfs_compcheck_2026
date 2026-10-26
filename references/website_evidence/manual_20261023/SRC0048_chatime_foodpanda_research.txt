@@ -1,0 +1,23 @@
+Selected research transcription
+Retrieved date: 2026-10-23
+URL: https://www.foodpanda.ph/restaurant/j3lt/chatime-wmall
+Listing: Chatime - WMall
+
+Opened page:
+Offer: 20% off, valid for all items, auto applied.
+Chatime Milk Tea: from PHP 104; higher reference price PHP 130.
+Pearl Milk Tea: from PHP 112; higher reference price PHP 140.
+
+Chatime Milk Tea description identifies black tea and creamer.
+Pearl Milk Tea description explicitly includes pearls.
+Selected sizes and temperatures are not stated.
+
+Retrieval discrepancy:
+Search result showed a different offer and different displayed prices.
+Opened content was labelled as crawled six months ago.
+The records below represent the opened version only.
+Current offer, checkout prices, and price effective dates unresolved.
+
+Higher prices are reference prices, not established regular prices.
+Comparison groups are provisional.
+This is a selected research transcription, not a full page capture.

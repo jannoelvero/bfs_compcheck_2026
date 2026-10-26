@@ -1,0 +1,11 @@
+dataset,records,brands_with_records,registered_brands,coverage_percent
+branch_directory,24,21,23,91.3
+menu_pricing,246,21,23,91.3
+promotions,3,2,23,8.7
+loyalty_programs,4,4,23,17.4
+store_assessments,3,3,23,13.0
+customer_reviews,36,3,23,13.0
+ordering_channels,6,4,23,17.4
+franchise_offers,15,11,23,47.8
+commercial_developments,7,6,23,26.1
+event_packages,12,1,23,4.3

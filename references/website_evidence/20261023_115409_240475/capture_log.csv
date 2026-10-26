@@ -1,0 +1,2 @@
+source_id,captured_at,requested_url,final_url,http_status,evidence_file,capture_status,inspection_status,notes
+SRC0029,2026-10-23T11:54:09.240475+08:00,https://order.butfirstcoffee.ph/,https://order.butfirstcoffee.ph/,200,references/website_evidence/20261023_115409_240475/SRC0029.html,Downloaded,Insufficient substantive content,

@@ -1,0 +1,5 @@
+Research transcription of web retrieval.
+Inspected: 2026-10-23
+URL: https://chatime.com.ph/about/
+Official Philippine About page states that Chatime was founded in Taiwan in 2005 and opened in the Philippines in 2011. Philippine start year is 2011. Global founding and Philippine entry are separate.
+Not an original HTML capture.

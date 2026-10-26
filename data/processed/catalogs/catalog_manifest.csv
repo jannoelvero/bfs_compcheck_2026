@@ -1,0 +1,5 @@
+catalog,filename,records,columns,primary_sources
+pickup_product_profile,pickup_product_profile.csv,74,13,1
+zus_product_catalog,zus_product_catalog.csv,36,15,3
+zus_food_catalog,zus_food_catalog.csv,19,9,4
+bigbrew_product_catalog,bigbrew_product_catalog.csv,12,9,1

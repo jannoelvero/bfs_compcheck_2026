@@ -1,0 +1,28 @@
+{
+  "captured_at": "2026-10-25T14:05:21.357788+08:00",
+  "method": "One observed button click per fresh browser context",
+  "checks": [
+    {
+      "control": "App Store",
+      "click_completed": false,
+      "original_url": "https://order.butfirstcoffee.ph/",
+      "final_original_tab_url": "https://order.butfirstcoffee.ph/",
+      "open_tab_urls": "[\"https://order.butfirstcoffee.ph/\"]",
+      "page_text_changed": true,
+      "inspection_note": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"App Store\", exact=True)\n    - locator resolved to <button class=\"flex flex-1 items-center justify-center gap-1 whitespace-nowrap rounded-lg border border-bfc-border bg-bfc-card py-1.5 text-[10px] font-semibold text-cream transition hover:border-gold/40 hover:bg-bfc-surface\">\u2026</button>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"absolute inset-0 z-20 flex flex-col items-center justify-center gap-1.5 rounded-2xl bg-bfc-bg/70 backdrop-blur-[2px]\">\u2026</div> intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"absolute inset-0 z-20 flex flex-col items-center justify-center gap-1.5 rounded-2xl bg-bfc-bg/70 backdrop-blur-[2px]\">\u2026</div> intercepts pointer events\n  2 \u00d7 retrying click action\n      - waiting 100ms\n      - waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"absolute inset-0 bg-black/50 backdrop-blur-sm\"></div> from <div class=\"fixed inset-0 z-[60] flex items-center justify-center p-4\">\u2026</div> subtree intercepts pointer events\n  18 \u00d7 retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class=\"absolute inset-0 bg-black/50 backdrop-blur-sm\"></div> from <div class=\"fixed inset-0 z-[60] flex items-center justify-center p-4\">\u2026</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n",
+      "capture_error": ""
+    },
+    {
+      "control": "Play Store",
+      "click_completed": false,
+      "original_url": "https://order.butfirstcoffee.ph/",
+      "final_original_tab_url": "https://order.butfirstcoffee.ph/",
+      "open_tab_urls": "[\"https://order.butfirstcoffee.ph/\"]",
+      "page_text_changed": true,
+      "inspection_note": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Play Store\", exact=True)\n    - locator resolved to <button class=\"flex flex-1 items-center justify-center gap-1 whitespace-nowrap rounded-lg bg-gold py-1.5 text-[10px] font-bold text-bfc-ink transition hover:bg-gold-deep\">\u2026</button>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"absolute inset-0 z-20 flex flex-col items-center justify-center gap-1.5 rounded-2xl bg-bfc-bg/70 backdrop-blur-[2px]\">\u2026</div> intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"absolute inset-0 bg-black/50 backdrop-blur-sm\"></div> from <div class=\"fixed inset-0 z-[60] flex items-center justify-center p-4\">\u2026</div> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    19 \u00d7 waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class=\"absolute inset-0 bg-black/50 backdrop-blur-sm\"></div> from <div class=\"fixed inset-0 z-[60] flex items-center justify-center p-4\">\u2026</div> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n",
+      "capture_error": ""
+    }
+  ],
+  "app_installation_tested": false,
+  "rewards_functionality_tested": false
+}

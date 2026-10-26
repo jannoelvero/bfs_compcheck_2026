@@ -1,0 +1,22 @@
+Selected research transcription
+Retrieved date: 2026-10-23
+URL: https://www.foodpanda.ph/restaurant/s9tt/gong-cha-up-town-center
+Listing: Gong cha - UP Town Center
+
+Milk Tea section:
+Milk Tea: from PHP 105
+Milk Tea with Pearl Jelly: from PHP 115
+
+Selected prices match SRC0049 and observations MNU0080 and MNU0081.
+Retrieval service labels this opened version as crawled today.
+Page advertises 25% off all items, auto applied.
+Selected product cards show no separate discounted prices.
+No promotional prices are calculated.
+
+Sizes and temperatures remain unstated.
+Pearl jelly composition and comparison equivalence unresolved.
+Checkout prices and price effective dates unconfirmed.
+Matching retrieved prices do not establish historical price stability.
+
+No additional menu observations created.
+This is a selected transcription, not a full page capture.

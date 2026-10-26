@@ -1,0 +1,806 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="https://bigbrew.com.ph/webimage/bb.png">
+    <title>Products | Bigbrew Food and Beverage House Inc.</title>
+
+    <!-- Webfonts -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@qpokychuk/gilroy@1.0.2/index.min.css">
+    <link rel="stylesheet" href="/webfont/stylesheet.css">
+
+    <!-- External Assets -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    
+                                    <style>
+            @font-face {
+                font-family: 'milkyregular';
+                src: url('https://adminpanel.bigbrew.com.ph/fonts/1755219448_Milky 2.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+            }
+            </style>
+                                            <style>
+            @font-face {
+                font-family: 'chocoladinedemo';
+                src: url('https://adminpanel.bigbrew.com.ph/fonts/1755219539_ChocoladineDemo.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+            }
+            </style>
+                                            <style>
+            @font-face {
+                font-family: 'nolandbold';
+                src: url('https://adminpanel.bigbrew.com.ph/fonts/1755219626_Noland-Bold.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+            }
+            </style>
+                                            <style>
+            @font-face {
+                font-family: 'hamishregular';
+                src: url('https://adminpanel.bigbrew.com.ph/fonts/1755219806_Hamish.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+            }
+            </style>
+                                            <style>
+            @font-face {
+                font-family: 'urban_meltedregular';
+                src: url('https://adminpanel.bigbrew.com.ph/fonts/1755219847_Urban Melted.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+            }
+            </style>
+            
+    <style>
+        /* --- HIGH-TECH HD DESIGN SYSTEM --- */
+        :root {
+            --bg-light: #FAF6F0;
+            --primary-coffee: #251508;
+            --accent-orange: rgb(200, 112, 20);
+            --accent-gold: rgb(242, 161, 52);
+            --text-dark: #1F1207;
+            --text-muted: #61554A;
+            --surface-white: #FFFFFF;
+            --logo-gradient: linear-gradient(135deg, rgb(200, 112, 20) 0%, rgb(242, 161, 52) 100%);
+            --cyber-glow: rgba(200, 112, 20, 0.15);
+        }
+
+        * {
+            box-sizing: border-box;
+            font-family: 'Gilroy Heavy', 'Gilroy regular', sans-serif;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+            overflow-x: hidden;
+            position: relative;
+            /* Ultra-HD Tech Grid Overhaul */
+            background-image: 
+                linear-gradient(rgba(200, 112, 20, 0.02) 1.5px, transparent 1.5px),
+                linear-gradient(90deg, rgba(200, 112, 20, 0.02) 1.5px, transparent 1.5px);
+            background-size: 40px 40px;
+        }
+
+        /* Ambient High-Tech Pulse Background */
+        body::before {
+            content: '';
+            position: absolute;
+            top: 15%; left: -10%;
+            width: 50vw; height: 50vw;
+            background: radial-gradient(circle, var(--cyber-glow) 0%, transparent 70%);
+            z-index: -1;
+            pointer-events: none;
+            animation: ambientPulse 12s infinite alternate ease-in-out;
+        }
+
+        @keyframes ambientPulse {
+            0% { transform: translate(0, 0) scale(1); opacity: 0.5; }
+            100% { transform: translate(50px, 100px) scale(1.2); opacity: 0.8; }
+        }
+
+        @keyframes techBeat {
+            0% { transform: scale(1); filter: drop-shadow(0 0 0px rgba(200, 112, 20, 0)); }
+            15% { transform: scale(1.03); filter: drop-shadow(0 4px 15px rgba(200, 112, 20, 0.3)); }
+            30% { transform: scale(0.99); }
+            45% { transform: scale(1.01); }
+            60% { transform: scale(1); }
+            100% { transform: scale(1); }
+        }
+
+        /* --- PREMIUM GRADIENT LOGO MASK --- */
+        .logo-gradient-wrapper {
+            display: inline-block;
+            height: 42px;
+            width: 140px;
+            background: var(--logo-gradient);
+            -webkit-mask-size: contain;
+            mask-size: contain;
+            -webkit-mask-repeat: no-repeat;
+            mask-repeat: no-repeat;
+            -webkit-mask-position: center;
+            mask-position: center;
+            animation: techBeat 1.5s infinite ease-in-out;
+            transition: transform 0.3s ease;
+        }
+
+        .logo-gradient-wrapper:hover {
+            animation-play-state: paused; /* Humihinto sa pag-beat kapag tinitigan */
+            transform: scale(1.08);
+        }
+
+        .nav-logo-mask {
+            -webkit-mask-image: url('https://bigbrew.com.ph/webimage/logo.png');
+            mask-image: url('https://bigbrew.com.ph/webimage/logo.png');
+        }
+        .footer-logo-mask {
+            -webkit-mask-image: url('https://bigbrew.com.ph/webimage/logo.png');
+            mask-image: url('https://bigbrew.com.ph/webimage/logo.png');
+            animation: none;
+        }
+
+        /* --- NAVBAR STYLING --- */
+        .navbar-custom {
+            background: rgba(250, 246, 240, 0.8) !important;
+            backdrop-filter: blur(30px);
+            -webkit-backdrop-filter: blur(30px);
+            border-bottom: 1px solid rgba(37, 21, 8, 0.05);
+            padding: 0.75rem 0;
+            transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+        }
+        .navbar-custom .nav-link {
+            color: var(--text-muted) !important;
+            font-weight: 700;
+            font-size: 0.95rem;
+            letter-spacing: 0.5px;
+            padding: 0.6rem 1.2rem !important;
+            transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            position: relative;
+        }
+        .navbar-custom .nav-link::after {
+            content: '';
+            position: absolute;
+            width: 0; height: 3px;
+            bottom: 0; left: 50%;
+            background: var(--logo-gradient);
+            border-radius: 50px;
+            transition: all 0.3s ease;
+            transform: translateX(-50%);
+        }
+        .navbar-custom .nav-link:hover::after,
+        .navbar-custom .nav-link.active::after {
+            width: 50%;
+        }
+        .navbar-custom .nav-link:hover, .navbar-custom .nav-link.active {
+            color: var(--accent-orange) !important;
+        }
+
+        /* --- COMPACT HERO VIDEO SECTION --- */
+        .menu-hero-section {
+            height: 25vh;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 68px;
+            border-bottom: 2px solid rgba(200, 112, 20, 0.3);
+        }
+        .hero-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, rgba(37, 21, 8, 0.85) 0%, rgba(22, 13, 5, 0.6) 100%);
+            z-index: 1;
+        }
+        .menu-title {
+            font-size: 3rem;
+            font-weight: 900;
+            letter-spacing: -0.5px;
+            color: #FFFFFF;
+            z-index: 2;
+            position: relative;
+            text-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+        }
+
+        /* --- SIDEBAR & BRANDED MUG ICON --- */
+        .category-sidebar {
+            background: rgba(255, 255, 255, 0.85) !important;
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(37, 21, 8, 0.05);
+            border-radius: 24px;
+            padding: 26px;
+            box-shadow: 0 15px 35px rgba(37, 21, 8, 0.03);
+        }
+        .category-sidebar h3 {
+            color: var(--primary-coffee);
+            font-weight: 800;
+            border-bottom: 1px solid rgba(37, 21, 8, 0.08);
+            padding-bottom: 14px;
+        }
+        /* Custom Branded Gradient Coffee Cup Icon */
+        .branded-cup-icon {
+            background: var(--logo-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            display: inline-block;
+        }
+        .category-btn-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .category-btn {
+            background: transparent;
+            border: none;
+            color: var(--text-muted);
+            font-weight: 700;
+            padding: 14px 18px;
+            border-radius: 14px;
+            transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+            width: 100%;
+            text-align: left;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .category-btn:hover {
+            background: rgba(200, 112, 20, 0.04);
+            color: var(--accent-orange);
+            transform: translateX(4px);
+        }
+        .category-btn.active-category {
+            background: var(--logo-gradient);
+            color: #FFFFFF !important;
+            box-shadow: 0 10px 24px rgba(200, 112, 20, 0.25);
+        }
+
+        /* Mobile Slider Horizontal Categories */
+        .mobile-category-container {
+            background: rgba(250, 246, 240, 0.85);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(37, 21, 8, 0.05);
+            padding: 14px 0;
+        }
+        .mobile-scroll-wrapper {
+            display: flex;
+            overflow-x: auto;
+            gap: 12px;
+            padding-bottom: 4px;
+        }
+        .mobile-scroll-wrapper::-webkit-scrollbar {
+            display: none;
+        }
+        .mobile-cat-item {
+            background: #FFFFFF;
+            border: 1px solid rgba(37, 21, 8, 0.06);
+            color: var(--text-dark);
+            padding: 10px 22px;
+            border-radius: 50px;
+            font-weight: 700;
+            white-space: nowrap;
+            font-size: 0.9rem;
+            transition: all 0.25s cubic-bezier(0.165, 0.84, 0.44, 1);
+        }
+        .mobile-cat-item.active-category {
+            background: var(--logo-gradient);
+            color: #FFFFFF;
+            border-color: transparent;
+            box-shadow: 0 6px 15px rgba(200, 112, 20, 0.2);
+        }
+
+        /* --- 4K ULTRA INTERACTIVE BENTO CARD --- */
+        .product-card {
+            background: #FFFFFF;
+            border: 1px solid rgba(37, 21, 8, 0.04);
+            border-radius: 24px;
+            padding: 20px;
+            text-align: center;
+            transition: all 0.5s cubic-bezier(0.15, 0.85, 0.35, 1);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.015);
+            position: relative;
+            overflow: hidden;
+            height: 100%;
+        }
+        /* Custom High-Tech Dynamic Border */
+        .product-card::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border: 2px solid transparent;
+            border-radius: 24px;
+            background: var(--logo-gradient) border-box;
+            -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+            -webkit-mask-composite: destination-out;
+            mask-composite: exclude;
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+        .product-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 25px 50px rgba(200, 112, 20, 0.12);
+        }
+        .product-card:hover::before {
+            opacity: 1;
+        }
+        .product-img-holder {
+            width: 100%;
+            aspect-ratio: 1;
+            overflow: hidden;
+            border-radius: 18px;
+            background: #FAF8F5;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+        .product-img-holder img {
+            max-width: 88%;
+            max-height: 88%;
+            object-fit: contain;
+            transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1.1);
+        }
+        .product-card:hover .product-img-holder img {
+            transform: scale(1.08) rotate(2deg);
+        }
+        .product-title {
+            font-weight: 800;
+            color: var(--primary-coffee);
+            font-size: 1.1rem;
+            margin-top: 16px;
+            margin-bottom: 0;
+            transition: color 0.3s ease;
+        }
+        .product-card:hover .product-title {
+            color: var(--accent-orange);
+        }
+
+        /* --- GLASSMODAL UI SYSTEM --- */
+        .modal-content-custom {
+            background: rgba(255, 255, 255, 0.85) !important;
+            backdrop-filter: blur(30px) saturate(200%);
+            -webkit-backdrop-filter: blur(30px) saturate(200%);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            border-radius: 32px;
+            box-shadow: 0 40px 90px rgba(37, 21, 8, 0.25);
+            overflow: hidden;
+        }
+        .calorie-pill {
+            background: var(--logo-gradient);
+            color: #FFFFFF;
+            padding: 8px 20px;
+            border-radius: 50px;
+            font-weight: 800;
+            font-size: 0.9rem;
+            display: inline-block;
+            box-shadow: 0 5px 15px rgba(200, 112, 20, 0.25);
+        }
+        .modal-title-style {
+            font-weight: 900;
+            color: var(--primary-coffee);
+            font-size: 2.4rem;
+            letter-spacing: -0.5px;
+        }
+        .modal-body img {
+            border: 1px solid rgba(255, 255, 255, 0.6);
+            background: #FFFFFF;
+            padding: 12px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.02);
+        }
+
+        /* --- FOOTER --- */
+        .footer-custom {
+            background: #FFFFFF !important;
+            border-top: 1px solid rgba(37, 21, 8, 0.05);
+            color: var(--text-dark);
+        }
+        .footer-link {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 600;
+            transition: all 0.25s ease;
+        }
+        .footer-link:hover {
+            color: var(--accent-orange);
+            transform: translateY(-1px);
+        }
+        .social-badge {
+            width: 44px; height: 44px;
+            display: flex; align-items: center; justify-content: center;
+            background: var(--bg-light);
+            border: 1px solid rgba(37, 21, 8, 0.06);
+            border-radius: 14px;
+            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+        .social-badge:hover {
+            background: rgba(200, 112, 20, 0.08);
+            border-color: var(--accent-orange);
+            transform: translateY(-4px) rotate(8deg);
+        }
+        .social-badge img { height: 18px; filter: brightness(0.15); }
+    </style>
+</head>
+
+<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-custom fixed-top navbar-light">
+        <div class="container">
+            <a class="navbar-brand d-flex align-items-center p-0" href="/">
+                <div class="logo-gradient-wrapper nav-logo-mask"></div>
+            </a>
+            <button class="navbar-toggler border-0 shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#techNavbar">
+                <i class="fa-solid fa-bars-staggered text-dark fs-3"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="techNavbar">
+                <div class="navbar-nav ms-auto gap-1 text-center text-lg-start">
+                    <a href="/" class="nav-link">Home</a>
+                    <a href="/products" class="nav-link active">Products</a>
+                    <a href="/franchisee" class="nav-link">Be a Franchisee</a>
+                    <a href="/NewsArticle" class="nav-link">News &amp; Articles</a>
+                    <a href="/careers" class="nav-link">Careers</a>
+                    <a href="/contact" class="nav-link">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="menu-hero-section">
+        <video class="absolute position-absolute w-100 h-100 top-0 start-0 object-cover" autoplay="" muted="" loop="" style="object-fit: cover; z-index: 0;">
+            <source src="https://bigbrew.com.ph/product/prod.mp4" type="video/mp4">
+        </video>
+        <div class="hero-overlay"></div>
+        <h1 class="menu-title aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">Our Products</h1>
+    </section>
+
+    <!-- Mobile Sticky Categories -->
+    <div class="d-block d-lg-none sticky-top mobile-category-container z-3" style="top: 68px;">
+        <div class="container">
+            <div class="mobile-scroll-wrapper px-2">
+                                <button id="mobileCategoryBtn8" class="btn mobile-cat-item category-btn" onclick="selectCategory(this, 'cat8')" style=" font-family: 'milkyregular', sans-serif !important;  font-size: 28px !important;">
+                        Milk Tea
+                </button>
+                                <button id="mobileCategoryBtn9" class="btn mobile-cat-item category-btn" onclick="selectCategory(this, 'cat9')" style=" font-family: 'chocoladinedemo', sans-serif !important;  font-size: 35px !important;">
+                        Praf
+                </button>
+                                <button id="mobileCategoryBtn10" class="btn mobile-cat-item category-btn" onclick="selectCategory(this, 'cat10')" style=" font-family: 'nolandbold', sans-serif !important;  font-size: 28px !important;">
+                        Coffee
+                </button>
+                                <button id="mobileCategoryBtn11" class="btn mobile-cat-item category-btn" onclick="selectCategory(this, 'cat11')" style=" font-family: 'hamishregular', sans-serif !important;  font-size: 28px !important;">
+                        Fruit Tea
+                </button>
+                                <button id="mobileCategoryBtn12" class="btn mobile-cat-item category-btn active-category" onclick="selectCategory(this, 'cat12')" style=" font-family: 'urban_meltedregular', sans-serif !important;  font-size: 28px !important;">
+                        Brosty
+                </button>
+                            </div>
+        </div>
+    </div>
+
+    <!-- Main Section -->
+    <main class="container my-5 py-3">
+        <div class="row g-4">
+            
+            <!-- Desktop Sidebar Area -->
+            <aside class="col-lg-3 d-none d-lg-block aos-init aos-animate" data-aos="fade-right">
+                <div class="category-sidebar sticky-top" style="top: 100px; z-index: 10;">
+                    <h3 class="mb-4">
+                        <!-- Upgraded to Match Branded Gradient Color Logo -->
+                        <i class="fa-solid fa-mug-hot me-2 branded-cup-icon"></i>Categories
+                    </h3>
+                    <ul class="category-btn-list space-y-2">
+                                                <li class="mb-2">
+                            <button id="categoryBtn8" class="category-btn text-start btn" onclick="selectCategory(this, 'cat8')" style=" font-family: 'milkyregular', sans-serif !important;  font-size: 28px !important;">
+                                    <span>Milk Tea</span>
+                                    <i class="fa-solid fa-chevron-right small opacity-50"></i>
+                            </button>
+                        </li>
+                                                <li class="mb-2">
+                            <button id="categoryBtn9" class="category-btn text-start btn" onclick="selectCategory(this, 'cat9')" style=" font-family: 'chocoladinedemo', sans-serif !important;  font-size: 35px !important;">
+                                    <span>Praf</span>
+                                    <i class="fa-solid fa-chevron-right small opacity-50"></i>
+                            </button>
+                        </li>
+                                                <li class="mb-2">
+                            <button id="categoryBtn10" class="category-btn text-start btn" onclick="selectCategory(this, 'cat10')" style=" font-family: 'nolandbold', sans-serif !important;  font-size: 28px !important;">
+                                    <span>Coffee</span>
+                                    <i class="fa-solid fa-chevron-right small opacity-50"></i>
+                            </button>
+                        </li>
+                                                <li class="mb-2">
+                            <button id="categoryBtn11" class="category-btn text-start btn" onclick="selectCategory(this, 'cat11')" style=" font-family: 'hamishregular', sans-serif !important;  font-size: 28px !important;">
+                                    <span>Fruit Tea</span>
+                                    <i class="fa-solid fa-chevron-right small opacity-50"></i>
+                            </button>
+                        </li>
+                                                <li class="mb-2">
+                            <button id="categoryBtn12" class="category-btn text-start btn active-category" onclick="selectCategory(this, 'cat12')" style=" font-family: 'urban_meltedregular', sans-serif !important;  font-size: 28px !important;">
+                                    <span>Brosty</span>
+                                    <i class="fa-solid fa-chevron-right small opacity-50"></i>
+                            </button>
+                        </li>
+                                            </ul>
+                </div>
+            </aside>
+
+            <!-- Product Grid Engine Space -->
+            <section class="col-lg-9 col-12">
+                <div class="w-100 min-vh-100 d-flex flex-column justify-content-between">
+                    <div class="products-holder">
+                                                <div id="cat8" class="row row-cols-2 row-cols-sm-3 row-cols-md-4 g-4 product-grid d-none">
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Dark Choco" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1780386427_DARK CHOCO.png" data-medio-calories="161" data-grande-calories="317" data-desc="Bold and indulgent, this rich dark chocolate blend meets smooth milk tea for a decadent sip in every cup." data-disclaimer="No disclaimer available for this product." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1780386427_DARK CHOCO.png" alt="Dark Choco" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Dark Choco</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Cookies &amp; Cream" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1780386603_COOKIES AND CREAM.png" data-medio-calories="161" data-grande-calories="317" data-desc="Creamy milk tea swirled with crunchy cookie goodness for a sweet, nostalgic treat." data-disclaimer="No disclaimer available for this product." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1780386603_COOKIES AND CREAM.png" alt="Cookies &amp; Cream" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Cookies &amp; Cream</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Okinawa" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1780387266_OKINAWA.png" data-medio-calories="161" data-grande-calories="317" data-desc="Buttery caramel notes infused in classic milk tea, inspired by Okinawa’s signature brown sugar." data-disclaimer="No disclaimer available for this product." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1780387266_OKINAWA.png" alt="Okinawa" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Okinawa</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Wintermelon" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1755220856_WINTER MELON.png" data-medio-calories="163" data-grande-calories="321" data-desc="Light, sweet, and refreshing with the signature mellow flavor of wintermelon." data-disclaimer="Approximate calorie values are based on standard preparation methods and ingredient specifications; actual values may vary depending on drink customizations, serving size, preparation, and ingredient variations." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1755220856_WINTER MELON.png" alt="Wintermelon" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Wintermelon</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Cheesecake" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1755221380_CHEESECAKE.png" data-medio-calories="161" data-grande-calories="317" data-desc="Velvety milk tea infused with rich cheesecake flavor for a smooth, dessert-like treat." data-disclaimer="Approximate calorie values are based on standard preparation methods and ingredient specifications; actual values may vary depending on drink customizations, serving size, preparation, and ingredient variations." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1755221380_CHEESECAKE.png" alt="Cheesecake" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Cheesecake</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Matcha" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1755221473_MATCHA.png" data-medio-calories="161" data-grande-calories="317" data-desc="Earthy and aromatic matcha blended with silky milk tea for a balanced, energizing sip." data-disclaimer="Approximate calorie values are based on standard preparation methods and ingredient specifications; actual values may vary depending on drink customizations, serving size, preparation, and ingredient variations." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1755221473_MATCHA.png" alt="Matcha" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Matcha</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Chocolate" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1755235645_CHOCOLATE.png" data-medio-calories="161" data-grande-calories="317" data-desc="Smooth and comforting, with the perfect harmony of chocolate richness and milk tea creaminess." data-disclaimer="Approximate calorie values are based on standard preparation methods and ingredient specifications; actual values may vary depending on drink customizations, serving size, preparation, and ingredient variations." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1755235645_CHOCOLATE.png" alt="Chocolate" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Chocolate</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Red Velvet" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1755235689_RED VELVET.png" data-medio-calories="161" data-grande-calories="317" data-desc="Sweet, cocoa-kissed milk tea with a hint of cream cheese flavor, inspired by the classic cake." data-disclaimer="Approximate calorie values are based on standard preparation methods and ingredient specifications; actual values may vary depending on drink customizations, serving size, preparation, and ingredient variations." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1755235689_RED VELVET.png" alt="Red Velvet" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Red Velvet</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Salted Caramel" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1755235737_SALTED CARAMEL.png" data-medio-calories="161" data-grande-calories="317" data-desc="Buttery caramel sweetness balanced with a touch of salt, perfectly paired with milk tea." data-disclaimer="Approximate calorie values are based on standard preparation methods and ingredient specifications; actual values may vary depending on drink customizations, serving size, preparation, and ingredient variations." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1755235737_SALTED CARAMEL.png" alt="Salted Caramel" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Salted Caramel</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Choco Kisses" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1755235776_CHOCO KISSES.png" data-medio-calories="161" data-grande-calories="317" data-desc="Sweet milk tea infused with the nostalgic taste of chocolate kisses." data-disclaimer="Approximate calorie values are based on standard preparation methods and ingredient specifications; actual values may vary depending on drink customizations, serving size, preparation, and ingredient variations." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1755235776_CHOCO KISSES.png" alt="Choco Kisses" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Choco Kisses</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Taro" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1755235823_TARO.png" data-medio-calories="161" data-grande-calories="317" data-desc="Creamy, nutty taro flavor blended with milk tea for a pastel-hued favorite." data-disclaimer="Approximate calorie values are based on standard preparation methods and ingredient specifications; actual values may vary depending on drink customizations, serving size, preparation, and ingredient variations." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1755235823_TARO.png" alt="Taro" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Taro</p>
+                                </div>
+                            </div>
+                                                        <div class="col">
+                                <div class="product-card product-item cursor-pointer" tabindex="0" onclick="openModalEngine(this)" data-name="Strawberry" data-img="https://adminpanel.bigbrew.com.ph/imageproduct/1755235876_STRAWBERRY.png" data-medio-calories="161" data-grande-calories="317" data-desc="Sweet and fruity strawberry goodness swirled into smooth milk tea for a refreshing twist." data-disclaimer="Approximate calorie values are based on standard preparation methods and ingredient specifications; actual values may vary depending on drink customizations, serving size, preparation, and ingredient variations." style="opacity: 1; transform: translateY(0px) scale(1); transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);">
+                                    
+                                    <div class="product-img-holder">
+                                        <img src="https://adminpanel.bigbrew.com.ph/imageproduct/1755235876_STRAWBERRY.png" alt="Strawberry" loading="lazy">
+                                    </div>
+                                    <p class="product-title">Strawberry</p>
+                                </div>
+                            </div>
+                                                    </div>
+                                                <div id="cat9" class="row row-cols-2 row-cols-sm-3 row-cols-md-4 g-4 product-grid d-none">
+                                                    </div>
+                                                <div id="cat10" class="row row-cols-2 row-cols-sm-3 row-cols-md-4 g-4 product-grid d-none">
+                                                    </div>
+                                                <div id="cat11" class="row row-cols-2 row-cols-sm-3 row-cols-md-4 g-4 product-grid d-none">
+                                                    </div>
+                                                <div id="cat12" class="row row-cols-2 row-cols-sm-3 row-cols-md-4 g-4 product-grid">
+                                                    </div>
+                                            </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer Area -->
+    <footer class="footer-custom py-5 mt-5">
+        <div class="container">
+            <div class="row justify-content-between align-items-center g-4">
+                <div class="col-md-3 text-center text-md-start">
+                    <div class="logo-gradient-wrapper footer-logo-mask mb-2"></div>
+                    <p class="small text-muted mb-0 mt-1" style="font-family: 'Gilroy regular';">Bigbrew Food and Beverages Inc.</p>
+                </div>
+                <div class="col-md-6">
+                    <div class="d-flex flex-wrap justify-content-center gap-4">
+                        <a href="#" class="footer-link">Home</a>
+                        <a href="/products" class="footer-link">Our Products</a>
+                        <a href="/franchisee" class="footer-link">Be A Franchisee</a>
+                        <a href="/careers" class="footer-link">News</a>
+                        <a href="/careers" class="footer-link">Careers</a>
+                        <a href="/contact" class="footer-link">Contact</a>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="d-flex justify-content-center justify-content-md-end gap-3">
+                        <a href="https://www.facebook.com/bigbrew.main" class="social-badge"><img src="https://bigbrew.com.ph/images/facebook.png" alt="FB"></a>
+                        <a href="https://www.instagram.com/bigbrew.main" class="social-badge"><img src="https://bigbrew.com.ph/images/instagram.png" alt="IG"></a>
+                        <a href="https://www.tiktok.com/@bigbrewmain" class="social-badge"><img src="https://bigbrew.com.ph/images/tiktok.png" alt="TT"></a>
+                    </div>
+                </div>
+            </div>
+            <hr class="my-4" style="border-color: rgba(37, 21, 8, 0.05);">
+            <div class="row">
+                <div class="col text-center">
+                    <p class="mb-0 text-muted small" style="font-family: 'Gilroy regular'; letter-spacing: 0.5px;">
+                        © 2026 Bigbrew Food and Beverages Inc. All Systems Operational.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Glassmorphic Details Modal -->
+    <div class="modal fade" id="bsProductModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content modal-content-custom p-3">
+                <div class="d-flex justify-content-end">
+                    <button type="button" class="btn-close shadow-none" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row align-items-center g-4">
+                        <div class="col-md-5 text-center">
+                            <img id="mImg" src="" alt="" class="img-fluid rounded-4 shadow-sm" style="max-height: 280px; object-fit: contain; width: 100%;">
+                        </div>
+                        <div class="col-md-7">
+                            <h2 id="mName" class="modal-title-style mb-2"></h2>
+                            <div class="mb-3">
+                                <!-- <span id="mCalories" class="calorie-pill"></span> -->
+                            </div>
+                            <p id="mDesc" class="text-secondary mb-4" style="font-family: 'Gilroy regular', sans-serif; line-height: 1.6;"></p>
+                            <div class="pt-3 border-top border-secondary border-opacity-10">
+                                <p id="mDisclaimer" class="text-muted mb-0" style="font-family: 'Gilroy regular', sans-serif; font-size: 0.75rem;"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts Core Logic -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    
+    <script>
+        AOS.init({ once: true, mirror: false });
+
+        let currentCategory = ""; 
+        let bsModalInstance = null;
+
+        function openModalEngine(element) {
+            if (!bsModalInstance) {
+                const nativeModalEl = document.getElementById('bsProductModal');
+                bsModalInstance = new bootstrap.Modal(nativeModalEl);
+            }
+
+            const name = element.getAttribute('data-name');
+            const img = element.getAttribute('data-img');
+            const medioCal = element.getAttribute('data-medio-calories') || '';
+            const grandeCal = element.getAttribute('data-grande-calories') || '';
+            const desc = element.getAttribute('data-desc') || 'No description provided.';
+            const disclaimer = element.getAttribute('data-disclaimer');
+
+            document.getElementById('mImg').src = img;
+            document.getElementById('mName').textContent = name;
+            document.getElementById('mDesc').textContent = desc;
+            document.getElementById('mDisclaimer').textContent = disclaimer;
+
+            // const cPill = document.getElementById('mCalories');
+            // if(!medioCal && !grandeCal) {
+            //     cPill.style.display = 'none';
+            // } else {
+            //     cPill.style.display = 'inline-block';
+            //     const mVal = medioCal.replace(/calories|cal/gi, '').trim();
+            //     const gVal = grandeCal.replace(/calories|cal/gi, '').trim();
+            //     cPill.textContent = `M: ${mVal || '0'} cal | G: ${gVal || '0'} cal`;
+            // }
+
+            bsModalInstance.show();
+        }
+
+        function selectCategory(button, category) {
+            currentCategory = category;
+
+            document.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active-category'));
+
+            const catIdNum = category.replace('cat', '');
+            const targetDesktop = document.getElementById('categoryBtn' + catIdNum);
+            const targetMobile = document.getElementById('mobileCategoryBtn' + catIdNum);
+            
+            if(targetDesktop) targetDesktop.classList.add('active-category');
+            if(targetMobile) targetMobile.classList.add('active-category');
+
+            document.querySelectorAll('.product-grid').forEach(section => {
+                section.classList.add('d-none');
+            });
+
+            const selectedSection = document.getElementById(category);
+            if(selectedSection) {
+                selectedSection.classList.remove('d-none');
+                
+                const cards = selectedSection.querySelectorAll('.product-card');
+                cards.forEach((card, i) => {
+                    // Upgraded Hardware-Accelerated Cinematic Motion Grid Entrance
+                    card.style.opacity = 0;
+                    card.style.transform = 'translateY(20px) scale(0.95)';
+                    setTimeout(() => {
+                        card.style.transition = 'all 0.5s cubic-bezier(0.165, 0.84, 0.44, 1)';
+                        card.style.opacity = 1;
+                        card.style.transform = 'translateY(0) scale(1)';
+                    }, i * 45);
+                });
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            const activeSelector = document.querySelector('.category-sidebar .category-btn') || document.querySelector('.mobile-scroll-wrapper .category-btn');
+            if (activeSelector) activeSelector.click();
+        });
+    </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;a9742e10184f4f5a94b95a469c7c0cad&quot;,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+</body></html>

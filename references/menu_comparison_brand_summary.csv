@@ -1,0 +1,22 @@
+brand_id,brand_name,size_missing,volume_missing,temperature_unresolved,price_missing_or_invalid,starting_price,branch_id_missing,location_unresolved,channel_unresolved,equivalence_review,serving_format_review,possible_repeat_capture,card_variant_overlap_review,possible_renamed_product,number_of_observations
+BFC001,"But First, Coffee",3,26,5,3,0,26,26,0,0,11,0,3,0,26
+BFC002,PICKUP COFFEE,3,3,2,0,0,3,3,0,1,0,0,0,0,3
+BFC003,Juan Café,3,3,3,0,3,3,0,0,0,0,0,0,0,3
+BFC005,TOMORO COFFEE,3,6,0,0,6,6,0,0,0,0,0,0,0,6
+BFC006,Macao Imperial Tea,3,3,0,0,3,3,0,0,3,0,0,0,0,3
+BFC007,Black Scoop Cafe,3,3,2,0,3,3,0,0,0,0,0,0,0,3
+BFC008,Kurimi Milk Tea Bar,2,2,2,0,2,2,0,0,2,0,0,0,0,2
+BFC009,Dunkin',3,6,0,0,3,6,0,0,0,0,0,0,0,6
+BFC010,Figaro Coffee,4,4,0,0,4,4,0,0,0,0,0,0,0,4
+BFC011,Bo's Coffee,2,2,2,0,2,2,0,0,0,0,0,0,0,2
+BFC013,Chatime,4,4,4,0,4,4,0,0,4,0,4,0,0,4
+BFC014,Gong cha,2,2,2,0,2,2,0,0,2,0,0,0,0,2
+BFC015,Famous Belgian Waffles,3,3,3,0,0,3,0,0,3,0,0,0,0,3
+BFC016,Fruitas,0,3,3,0,0,3,0,0,3,0,0,0,0,3
+BFC017,Potato Corner,0,4,4,0,2,4,0,0,4,0,0,0,0,4
+BFC018,BigBrew,2,4,0,0,4,4,0,0,2,0,0,0,0,4
+BFC019,Moonleaf,2,2,2,0,2,2,0,0,2,0,0,0,2,2
+BFC020,Coffee First,6,6,0,0,6,6,0,0,0,0,0,0,0,6
+BFC021,ZUS Coffee,0,3,0,0,3,3,0,0,0,0,0,0,0,3
+BFC022,Starbucks,2,2,2,0,2,2,0,0,0,0,0,0,0,2
+BFC023,The Coffee Bean & Tea Leaf,6,6,0,0,4,6,0,0,0,0,0,0,0,6

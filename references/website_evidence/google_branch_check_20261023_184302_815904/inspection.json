@@ -1,0 +1,20 @@
+{
+  "sample_id": "SMP0070",
+  "branch_id": "BRN0024",
+  "captured_at": "2026-10-23T18:43:02.815904+08:00",
+  "requested_url": "https://www.google.com/maps/search/?api=1&query=But+First+Coffee+48+Malingap+Street+Quezon+City+Philippines",
+  "final_url": "https://www.google.com/maps/search/?api=1&query=But+First+Coffee+48+Malingap+Street+Quezon+City+Philippines",
+  "http_status": 200,
+  "headings": [
+    "But First, Coffee (BFC) - Diliman"
+  ],
+  "address_labels": [
+    {
+      "text": "\n48 1101 Malingap, Diliman, Quezon City, Kalakhang Maynila",
+      "label": "Address: 48 1101 Malingap, Diliman, Quezon City, Kalakhang Maynila "
+    }
+  ],
+  "inspection_note": "",
+  "branch_match_verified": false,
+  "reviews_imported": 0
+}

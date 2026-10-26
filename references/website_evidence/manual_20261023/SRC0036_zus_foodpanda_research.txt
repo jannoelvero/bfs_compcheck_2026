@@ -1,0 +1,11 @@
+Evidence type: Analyst transcription from web retrieval
+Observation date: 2026-10-23
+Source URL: https://www.foodpanda.ph/restaurant/gedq/zus-coffee-university-mall-taft
+Branch: ZUS Coffee - University Mall Taft
+Channel: Foodpanda
+
+Iced Americano - Regular: from PHP 105
+Iced Cafe Latte - Regular: from PHP 120
+Iced Spanish Latte - Regular: from PHP 130
+
+Limitations: Starting prices. Final options not tested. Physical volumes unknown. This is not a complete page capture.

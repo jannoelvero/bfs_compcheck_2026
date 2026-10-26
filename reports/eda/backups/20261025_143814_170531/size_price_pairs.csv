@@ -1,0 +1,13 @@
+observation_id_12oz,brand_id,source_id_12oz,comparison_group,temperature,channel,location_scope,displayed_price_php_12oz,observation_id_16oz,source_id_16oz,displayed_price_php_16oz,brand_name,price_increment_php
+MNU0004,BFC001,SRC0030,Americano,Hot,Official website,Not stated in captured text,110.0,MNU0005,SRC0030,120.0,"But First, Coffee",10.0
+MNU0112,BFC023,SRC0121,Americano,Hot,Official website,Official Philippine menu; branch applicability unconfirmed,140.0,MNU0113,SRC0121,155.0,The Coffee Bean & Tea Leaf,15.0
+MNU0008,BFC001,SRC0030,Americano,Iced,Official website,Not stated in captured text,110.0,MNU0009,SRC0030,120.0,"But First, Coffee",10.0
+MNU0115,BFC023,SRC0121,Americano,Iced,Official website,Official Philippine menu; branch applicability unconfirmed,140.0,MNU0116,SRC0121,155.0,The Coffee Bean & Tea Leaf,15.0
+MNU0016,BFC001,SRC0031,Cafe latte,Hot,Official website,Not stated in captured text,130.0,MNU0017,SRC0031,140.0,"But First, Coffee",10.0
+MNU0118,BFC023,SRC0121,Cafe latte,Hot,Official website,Official Philippine menu; branch applicability unconfirmed,135.0,MNU0119,SRC0121,150.0,The Coffee Bean & Tea Leaf,15.0
+MNU0014,BFC001,SRC0031,Cafe latte,Iced,Official website,Not stated in captured text,130.0,MNU0015,SRC0031,140.0,"But First, Coffee",10.0
+MNU0121,BFC023,SRC0121,Cafe latte,Iced,Official website,Official Philippine menu; branch applicability unconfirmed,135.0,MNU0122,SRC0121,150.0,The Coffee Bean & Tea Leaf,15.0
+MNU0023,BFC001,SRC0032,Spanish latte,Hot,Official website,Not stated in captured text,130.0,MNU0024,SRC0032,140.0,"But First, Coffee",10.0
+MNU0124,BFC023,SRC0121,Spanish latte,Hot,Official website,Official Philippine menu; branch applicability unconfirmed,175.0,MNU0125,SRC0121,185.0,The Coffee Bean & Tea Leaf,10.0
+MNU0021,BFC001,SRC0032,Spanish latte,Iced,Official website,Not stated in captured text,130.0,MNU0022,SRC0032,140.0,"But First, Coffee",10.0
+MNU0127,BFC023,SRC0121,Spanish latte,Iced,Official website,Official Philippine menu; branch applicability unconfirmed,175.0,MNU0128,SRC0121,185.0,The Coffee Bean & Tea Leaf,10.0

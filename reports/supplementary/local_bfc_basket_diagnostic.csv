@@ -1,0 +1,5 @@
+site_id,study_area,branch_name,coffee_starting_price_php,food_listing_price_php,listed_combination_php
+LOC0001,Metro Manila,Diliman,68.0,32.0,100.0
+LOC0002,Luzon outside Metro Manila,Molino III,85.0,65.0,150.0
+LOC0003,Visayas,Jones,72.25,63.75,136.0
+LOC0004,Mindanao,T. Chavez,85.0,,

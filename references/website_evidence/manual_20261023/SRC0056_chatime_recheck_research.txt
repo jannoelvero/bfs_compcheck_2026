@@ -1,0 +1,23 @@
+Selected research transcription
+Retrieved date: 2026-10-23
+URL: https://www.foodpanda.ph/restaurant/j3lt/chatime-wmall
+Listing: Chatime - WMall
+
+Milk Tea - A La Carte:
+Chatime Milk Tea: from PHP 130
+
+Milk Tea - Classics:
+Pearl Milk Tea: from PHP 140
+
+Retrieval service labels the opened version as crawled today.
+Page advertises 30% off selected items.
+Neither selected product displays a separate discounted price.
+Discount eligibility for these products remains unresolved.
+
+Sizes and temperatures are not stated.
+Checkout prices and price effective dates are unconfirmed.
+
+Earlier SRC0048 displayed different prices and an offer.
+This recheck does not establish when either version applied.
+Earlier observations are preserved without modification.
+This is a selected transcription, not a full page capture.

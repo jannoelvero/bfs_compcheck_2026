@@ -1,0 +1,160 @@
+site_id,study_area,site_branch_name,candidate_name,map_url,listing_text,observed_date,distance_status,identity_status,candidate_latitude,candidate_longitude,site_latitude,site_longitude,distance_km,distance_band,map_place_id,repeated_place_id,bfc_name_match,review_status,competitor_type,inclusion_decision,review_note,selection_reason,research_status
+LOC0001,Metro Manila,Diliman,Our Little Cafe,https://www.google.com/maps/place/Our+Little+Cafe/data=!4m7!3m6!1s0x3397b786108c0845:0x40f1aa6e6edfbc78!8m2!3d14.6427489!4d121.0593963!16s%2Fg%2F11m6p61hpr!19sChIJRQiMEIa3lzMReLzfbm6q8UA?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Our Little Cafe
+Our Little Cafe
+4.3
+Cafe · Teachers Village East, 44 Malingap
+Open · Closes 7:30 PM
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,14.6427489,121.0593963,14.642773,121.06008,0.07360367339968484,Within 2 km,0x3397b786108c0845:0x40f1aa6e6edfbc78,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0001,Metro Manila,Diliman,The Old Ironside Coffee - Museum,https://www.google.com/maps/place/The+Old+Ironside+Coffee+-+Museum/data=!4m7!3m6!1s0x3397b708f94d76ef:0xbdbce2eb87697345!8m2!3d14.6427206!4d121.0591489!16s%2Fg%2F11x2cqx94v!19sChIJ73ZN-Qi3lzMRRXNph-vivL0?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"The Old Ironside Coffee - Museum
+The Old Ironside Coffee - Museum
+4.5
+Coffee shop ·  · Teachers Village East, 40 Malingap
+Open · Closes 12 AM",2026-10-25,Calculated from map link business coordinates,Pending review,14.6427206,121.0591489,14.642773,121.06008,0.10034036492232797,Within 2 km,0x3397b708f94d76ef:0xbdbce2eb87697345,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0001,Metro Manila,Diliman,SGD Coffee Bodega,https://www.google.com/maps/place/SGD+Coffee+Bodega/data=!4m7!3m6!1s0x3397b774561353dd:0xf4ad31738415c492!8m2!3d14.6436322!4d121.0593675!16s%2Fg%2F11c2ng3gvk!19sChIJ3VMTVnS3lzMRksQVhHMxrfQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"SGD Coffee Bodega
+SGD Coffee Bodega
+4.5
+Coffee shop ·  · 45 Maalalahanin
+Open · Closes 9 PM",2026-10-25,Calculated from map link business coordinates,Pending review,14.6436322,121.0593675,14.642773,121.06008,0.12248822960657504,Within 2 km,0x3397b774561353dd:0xf4ad31738415c492,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0001,Metro Manila,Diliman,PICKUP COFFEE - Total Kalayaan Ave.,https://www.google.com/maps/place/PICKUP+COFFEE+-+Total+Kalayaan+Ave./data=!4m7!3m6!1s0x3397b7be7285b6b5:0x561f3698dec78101!8m2!3d14.6379267!4d121.0550304!16s%2Fg%2F11krbhc4jd!19sChIJtbaFcr63lzMRAYHH3pg2H1Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"PICKUP COFFEE - Total Kalayaan Ave.
+PICKUP COFFEE - Total Kalayaan Ave.
+4.8
+Coffee shop · 21 Kalayaan Ave
+Open · Closes 10 PM
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,14.6379267,121.0550304,14.642773,121.06008,0.7651980287966064,Within 2 km,0x3397b7be7285b6b5:0x561f3698dec78101,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending
+LOC0001,Metro Manila,Diliman,Starbucks Matalino St. Teachers Village,https://www.google.com/maps/place/Starbucks+Matalino+St.+Teachers+Village/data=!4m7!3m6!1s0x3397b70bd39b5da5:0x37ec6f0fe4501a05!8m2!3d14.6454715!4d121.0518789!16s%2Fg%2F1thq7dg1!19sChIJpV2b0wu3lzMRBRpQ5A9v7Dc?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Starbucks Matalino St. Teachers Village
+Starbucks Matalino St. Teachers Village
+4.4
+Coffee shop ·  · Teacher's Village, 31 Matalino St
+Iconic coffeehouse chain
+Open · Closes 12 AM",2026-10-25,Calculated from map link business coordinates,Pending review,14.6454715,121.0518789,14.642773,121.06008,0.931925790713673,Within 2 km,0x3397b70bd39b5da5:0x37ec6f0fe4501a05,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending
+LOC0001,Metro Manila,Diliman,"PICKUP COFFEE - U.P. Town Center, Quezon City","https://www.google.com/maps/place/PICKUP+COFFEE+-+U.P.+Town+Center,+Quezon+City/data=!4m7!3m6!1s0x3397b77e5f1cc5d1:0xa0b1c4dd045c4792!8m2!3d14.6512433!4d121.0752296!16s%2Fg%2F11twhq884q!19sChIJ0cUcX363lzMRkkdcBN3EsaA?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1","PICKUP COFFEE - U.P. Town Center, Quezon City
+PICKUP COFFEE - U.P. Town Center, Quezon City
+3.8
+Coffee shop ·  · G/F, U.P. Town Center, Katipunan Ave
+Open · Closes 10 PM
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,14.6512433,121.0752296,14.642773,121.06008,1.8823902156013943,Within 2 km,0x3397b77e5f1cc5d1:0xa0b1c4dd045c4792,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending
+LOC0002,Luzon outside Metro Manila,Molino III,Mood & Coffee - Bacoor Cavite,https://www.google.com/maps/place/Mood+%26+Coffee+-+Bacoor+Cavite/data=!4m7!3m6!1s0x3397d300663cd46f:0xe4fb3479991c2877!8m2!3d14.3949064!4d120.9774501!16s%2Fg%2F11y2wwmx2x!19sChIJb9Q8ZgDTlzMRdygcmXk0--Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Mood & Coffee - Bacoor Cavite
+Mood & Coffee - Bacoor Cavite
+4.5
+Coffee shop · Stall A, Patio Jacinto, 389 Molino Rd
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,14.3949064,120.9774501,14.3936279,120.9777732,0.1463601202338705,Within 2 km,0x3397d300663cd46f:0xe4fb3479991c2877,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0002,Luzon outside Metro Manila,Molino III,CoffeeGram “Your Daily Dose of Happiness”,https://www.google.com/maps/place/CoffeeGram+%E2%80%9CYour+Daily+Dose+of+Happiness%E2%80%9D/data=!4m7!3m6!1s0x3397d37b009a9107:0x5f484a3bda65dbc9!8m2!3d14.3926711!4d120.9753015!16s%2Fg%2F11v5wty0s3!19sChIJB5GaAHvTlzMRydtl2jtKSF8?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"CoffeeGram “Your Daily Dose of Happiness”
+CoffeeGram “Your Daily Dose of Happiness”
+5.0
+Coffee shop · Molino 3
+Closed · Opens 8 AM Mon
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,14.3926711,120.9753015,14.3936279,120.9777732,0.2866866893047784,Within 2 km,0x3397d37b009a9107:0x5f484a3bda65dbc9,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0002,Luzon outside Metro Manila,Molino III,"BellyBellesCoffee - Molino 3, Bacoor Cavite","https://www.google.com/maps/place/BellyBellesCoffee+-+Molino+3,+Bacoor+Cavite/data=!4m7!3m6!1s0x3397d3006d967459:0xd933e1994d538fff!8m2!3d14.3964288!4d120.9776383!16s%2Fg%2F11w3lndjtz!19sChIJWXSWbQDTlzMR_49TTZnhM9k?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1","BellyBellesCoffee - Molino 3, Bacoor Cavite
+BellyBellesCoffee - Molino 3, Bacoor Cavite
+5.0
+Coffee shop · 9212 Jade, 9212 Molino Rd
+Open · Closes 8 PM",2026-10-25,Calculated from map link business coordinates,Pending review,14.3964288,120.9776383,14.3936279,120.9777732,0.3117850187528177,Within 2 km,0x3397d3006d967459:0xd933e1994d538fff,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0002,Luzon outside Metro Manila,Molino III,Starbucks SM City Molino,https://www.google.com/maps/place/Starbucks+SM+City+Molino/data=!4m7!3m6!1s0x3397d3817ff52079:0x13b5db5b9162f2d9!8m2!3d14.3836592!4d120.9778905!16s%2Fg%2F11qyvff6bp!19sChIJeSD1f4HTlzMR2fJikVvbtRM?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Starbucks SM City Molino
+Starbucks SM City Molino
+4.4
+Coffee shop ·  · SM City Molino, Molino Rd
+Iconic coffeehouse chain
+Open · Closes 9 PM
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,14.3836592,120.9778905,14.3936279,120.9777732,1.1085423937523708,Within 2 km,0x3397d3817ff52079:0x13b5db5b9162f2d9,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending
+LOC0002,Luzon outside Metro Manila,Molino III,Starbucks Molino Boulevard,https://www.google.com/maps/place/Starbucks+Molino+Boulevard/data=!4m7!3m6!1s0x3397d3cf22a6ba2b:0x51aa5fce379ec96c!8m2!3d14.4066962!4d120.9744293!16s%2Fg%2F11ts4b8k3g!19sChIJK7qmIs_TlzMRbMmeN85fqlE?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Starbucks Molino Boulevard
+Starbucks Molino Boulevard
+4.5
+Coffee shop · 
+Iconic coffeehouse chain
+Open · Closes 1:30 AM",2026-10-25,Calculated from map link business coordinates,Pending review,14.4066962,120.9744293,14.3936279,120.9777732,1.4970945190461091,Within 2 km,0x3397d3cf22a6ba2b:0x51aa5fce379ec96c,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending
+LOC0003,Visayas,Jones,Coffee Bar Cafe Inc.,https://www.google.com/maps/place/Coffee+Bar+Cafe+Inc./data=!4m7!3m6!1s0x33a999d5574be345:0xc8d0caa2e4aaf42!8m2!3d10.312989!4d123.89209!16s%2Fg%2F11zdk5tx03!19sChIJReNLV9WZqTMRQq9KLqoMjQw?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Coffee Bar Cafe Inc.
+Coffee Bar Cafe Inc.
+5.0
+Cafe · Corner M. P. Yap, Osmeña Blvd
+Open · Closes 11 PM",2026-10-25,Calculated from map link business coordinates,Pending review,10.312989,123.89209,10.3126927,123.8923314,0.04222486143728904,Within 2 km,0x33a999d5574be345:0xc8d0caa2e4aaf42,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0003,Visayas,Jones,Norcal Coffee,https://www.google.com/maps/place/Norcal+Coffee/data=!4m7!3m6!1s0x33a9994ef8e82683:0x292a18acfef4649d!8m2!3d10.3118313!4d123.8921219!16s%2Fg%2F11njtp35hg!19sChIJgybo-E6ZqTMRnWT0_qwYKik?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Norcal Coffee
+Norcal Coffee
+5.0
+Cafe · 54 Osmeña Blvd
+Closed · Opens 6 AM Mon",2026-10-25,Calculated from map link business coordinates,Pending review,10.3118313,123.8921219,10.3126927,123.8923314,0.09848731749485728,Within 2 km,0x33a9994ef8e82683:0x292a18acfef4649d,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0003,Visayas,Jones,"Uncle Brew - Prime, Cebu Doctors Hospital","https://www.google.com/maps/place/Uncle+Brew+-+Prime,+Cebu+Doctors+Hospital/data=!4m7!3m6!1s0x33a999003796814f:0xa0610448e447c49!8m2!3d10.3137011!4d123.8925634!16s%2Fg%2F11y5h4yynd!19sChIJT4GWNwCZqTMRSXxEjkQQBgo?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1","Uncle Brew - Prime, Cebu Doctors Hospital
+Uncle Brew - Prime, Cebu Doctors Hospital
+4.4
+Coffee shop ·  · 8V7V+F3J, 211 Gov. M. Roa St
+Open · Closes 10:30 PM
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,10.3137011,123.8925634,10.3126927,123.8923314,0.11496568075334845,Within 2 km,0x33a999003796814f:0xa0610448e447c49,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0003,Visayas,Jones,Starbucks Robinsons Cybergate,https://www.google.com/maps/place/Starbucks+Robinsons+Cybergate/data=!4m7!3m6!1s0x33a9995c47b708a1:0x5979acb18bebf302!8m2!3d10.3108451!4d123.891633!16s%2Fg%2F11v42lgh_w!19sChIJoQi3R1yZqTMRAvPri7GseVk?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Starbucks Robinsons Cybergate
+Starbucks Robinsons Cybergate
+4.5
+Coffee shop ·  · 8V6R+8JQ
+Iconic coffeehouse chain
+Open · Closes 10 PM
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,10.3108451,123.891633,10.3126927,123.8923314,0.21919140108324825,Within 2 km,0x33a9995c47b708a1:0x5979acb18bebf302,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending
+LOC0003,Visayas,Jones,PICKUP COFFEE - Baseline Center,https://www.google.com/maps/place/PICKUP+COFFEE+-+Baseline+Center/data=!4m7!3m6!1s0x33a999004640add9:0xd901d7f3c1383712!8m2!3d10.3129356!4d123.8943816!16s%2Fg%2F11xmxnnynh!19sChIJ2a1ARgCZqTMREjc4wfPXAdk?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"PICKUP COFFEE - Baseline Center
+PICKUP COFFEE - Baseline Center
+4.3
+Coffee shop · Base Line Center, Juana Osmeña St
+Open · Closes 11 PM
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,10.3129356,123.8943816,10.3126927,123.8923314,0.22590966695677375,Within 2 km,0x33a999004640add9:0xd901d7f3c1383712,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending
+LOC0003,Visayas,Jones,The Coffee Bean & Tea Leaf,https://www.google.com/maps/place/The+Coffee+Bean+%26+Tea+Leaf/data=!4m7!3m6!1s0x33a9994e88812f01:0xdecd61c03f535d59!8m2!3d10.310405!4d123.891932!16s%2Fg%2F1hcb0gqc5!19sChIJAS-BiE6ZqTMRWV1TP8Bhzd4?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"The Coffee Bean & Tea Leaf
+The Coffee Bean & Tea Leaf
+4.4
+Coffee shop ·  · G/F, Robinsons Cybergate, Capitol Site, Don Mariano Cui St
+Chain coffee bar known for frozen drinks
+Open · Closes 9 PM
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,10.310405,123.891932,10.3126927,123.8923314,0.25810628342136377,Within 2 km,0x33a9994e88812f01:0xdecd61c03f535d59,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending
+LOC0003,Visayas,Jones,Starbucks Primeway,https://www.google.com/maps/place/Starbucks+Primeway/data=!4m7!3m6!1s0x33a999fbdb877537:0x10e51cda102f56c3!8m2!3d10.3089706!4d123.8948841!16s%2Fg%2F11sr0y6sf0!19sChIJN3WH2_uZqTMRw1YvENoc5RA?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Starbucks Primeway
+Starbucks Primeway
+4.5
+Coffee shop ·  · Primeway Plaza, 176 F. Ramos St
+Iconic coffeehouse chain
+Open · Closes 12:30 AM",2026-10-25,Calculated from map link business coordinates,Pending review,10.3089706,123.8948841,10.3126927,123.8923314,0.49928380456103666,Within 2 km,0x33a999fbdb877537:0x10e51cda102f56c3,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending
+LOC0003,Visayas,Jones,PICKUP COFFEE - Barba Building Osmeña,https://www.google.com/maps/place/PICKUP+COFFEE+-+Barba+Building+Osme%C3%B1a/data=!4m7!3m6!1s0x33a999e790af89e7:0x3fe4a51b7193ed76!8m2!3d10.2985773!4d123.8973632!16s%2Fg%2F11zcnjhc3f!19sChIJ54mvkOeZqTMRdu2TcRul5D8?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"PICKUP COFFEE - Barba Building Osmeña
+PICKUP COFFEE - Barba Building Osmeña
+5.0
+Coffee shop · Barba Press Building, 715 Osmeña Blvd
+Open 24 hours
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,10.2985773,123.8973632,10.3126927,123.8923314,1.6632985059294008,Within 2 km,0x33a999e790af89e7:0x3fe4a51b7193ed76,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending
+LOC0004,Mindanao,T. Chavez,The Cafe by Benrose Hotel,https://www.google.com/maps/place/The+Cafe+by+Benrose+Hotel/data=!4m7!3m6!1s0x32fff376114dcb39:0x6243a7dcf3911f38!8m2!3d8.4773668!4d124.643502!16s%2Fg%2F11q8849055!19sChIJOctNEXbz_zIROB-R89ynQ2I?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"The Cafe by Benrose Hotel
+The Cafe by Benrose Hotel
+4.4
+Cafe · 976 Tiano Brothers St
+Open · Closes 8 PM
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,8.4773668,124.643502,8.4772397,124.6427449,0.0844568948255201,Within 2 km,0x32fff376114dcb39:0x6243a7dcf3911f38,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0004,Mindanao,T. Chavez,Rooftop Cafe,https://www.google.com/maps/place/Rooftop+Cafe/data=!4m7!3m6!1s0x32fff30030a069f5:0x1ada2b4bec5e8a3a!8m2!3d8.4763089!4d124.6438739!16s%2Fg%2F11l_2qn0tk!19sChIJ9WmgMADz_zIROope7Esr2ho?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Rooftop Cafe
+Rooftop Cafe
+3.2
+Coffee shop · Hayes St
+Open · Closes 10 PM",2026-10-25,Calculated from map link business coordinates,Pending review,8.4763089,124.6438739,8.4772397,124.6427449,0.16164768972810145,Within 2 km,0x32fff30030a069f5:0x1ada2b4bec5e8a3a,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0004,Mindanao,T. Chavez,Always Coffee,https://www.google.com/maps/place/Always+Coffee/data=!4m7!3m6!1s0x32fff30f3a824e93:0x5103062fed531898!8m2!3d8.4768245!4d124.6442324!16s%2Fg%2F11v06dz680!19sChIJk06COg_z_zIRmBhT7S8GA1E?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Always Coffee
+Always Coffee
+4.0
+Coffee shop · FJGV+PMQ, 52 T. Chavez St
+ 
+
+Order online",2026-10-25,Calculated from map link business coordinates,Pending review,8.4768245,124.6442324,8.4772397,124.6427449,0.16998542154572424,Within 2 km,0x32fff30f3a824e93:0x5103062fed531898,False,False,Competitor eligibility review pending,,,,One of the three nearest external candidates,Branch identity and menu verification pending
+LOC0004,Mindanao,T. Chavez,Starbucks Limketkai Av.,https://www.google.com/maps/place/Starbucks+Limketkai+Av./data=!4m7!3m6!1s0x32fff2c402f6cfe9:0x47e8d717c4c102de!8m2!3d8.4821973!4d124.65728!16s%2Fg%2F1tc_bs8v!19sChIJ6c_2AsTy_zIR3gLBxBfX6Ec?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1,"Starbucks Limketkai Av.
+Starbucks Limketkai Av.
+4.5
+Coffee shop ·  · Rosario Limketkai Ave
+Iconic coffeehouse chain
+Open · Closes 1 AM",2026-10-25,Calculated from map link business coordinates,Pending review,8.4821973,124.65728,8.4772397,124.6427449,1.690944287504656,Within 2 km,0x32fff2c402f6cfe9:0x47e8d717c4c102de,False,False,Competitor eligibility review pending,,,,Priority brand name match within 3 km; identity review pending,Branch identity and menu verification pending

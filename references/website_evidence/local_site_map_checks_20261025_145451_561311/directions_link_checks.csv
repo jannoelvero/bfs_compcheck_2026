@@ -1,0 +1,17 @@
+site_id,branch_name,listing_heading,directions_url,inspection_note
+LOC0001,Diliman,,,"TimeoutError: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for get_by_role(""link"", name=re.compile(r""Directions"", re.IGNORECASE)).first to be visible
+"
+LOC0002,Molino III,,,"TimeoutError: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for get_by_role(""link"", name=re.compile(r""Directions"", re.IGNORECASE)).first to be visible
+"
+LOC0003,Jones,,,"TimeoutError: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for get_by_role(""link"", name=re.compile(r""Directions"", re.IGNORECASE)).first to be visible
+"
+LOC0004,T. Chavez,,,"TimeoutError: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for get_by_role(""link"", name=re.compile(r""Directions"", re.IGNORECASE)).first to be visible
+"

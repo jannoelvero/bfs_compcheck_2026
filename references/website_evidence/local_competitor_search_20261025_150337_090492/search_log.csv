@@ -1,0 +1,5 @@
+site_id,search_url,scrolls_completed,outcome,evidence_file,coverage_status
+LOC0001,https://www.google.com/maps/search/?api=1&query=coffee+shops+near+14.642773%2C+121.06008,8,Captured candidate listings,references/website_evidence/local_competitor_search_20261025_150337_090492/LOC0001_search.txt,Exploratory search; completeness unverified
+LOC0002,https://www.google.com/maps/search/?api=1&query=coffee+shops+near+14.3936279%2C+120.9777732,8,Captured candidate listings,references/website_evidence/local_competitor_search_20261025_150337_090492/LOC0002_search.txt,Exploratory search; completeness unverified
+LOC0003,https://www.google.com/maps/search/?api=1&query=coffee+shops+near+10.3126927%2C+123.8923314,8,Captured candidate listings,references/website_evidence/local_competitor_search_20261025_150337_090492/LOC0003_search.txt,Exploratory search; completeness unverified
+LOC0004,https://www.google.com/maps/search/?api=1&query=coffee+shops+near+8.4772397%2C+124.6427449,8,Captured candidate listings,references/website_evidence/local_competitor_search_20261025_150337_090492/LOC0004_search.txt,Exploratory search; completeness unverified

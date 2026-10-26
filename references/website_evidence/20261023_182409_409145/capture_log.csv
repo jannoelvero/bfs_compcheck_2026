@@ -1,0 +1,4 @@
+source_id,captured_at,requested_url,final_url,http_status,evidence_file,capture_status,inspection_status,notes
+SRC0022,2026-10-23T18:24:09.409641+08:00,https://bigbrew.com.ph/,https://bigbrew.com.ph/,200,references/website_evidence/20261023_182409_409145/SRC0022.html,Downloaded,Accepted for inspected statements,
+SRC0023,2026-10-23T18:24:09.832502+08:00,https://www.moonleaf.ph/franchising,https://www.moonleaf.ph/franchising,200,references/website_evidence/20261023_182409_409145/SRC0023.html,Downloaded,Accepted for inspected statements,
+SRC0024,2026-10-23T18:24:10.294869+08:00,https://www.coffeefirst.ph/franchise,https://www.coffeefirst.ph/franchise,200,references/website_evidence/20261023_182409_409145/SRC0024.html,Downloaded,Accepted for inspected statements,

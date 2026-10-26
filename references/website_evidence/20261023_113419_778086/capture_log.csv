@@ -1,0 +1,4 @@
+source_id,captured_at,requested_url,final_url,http_status,evidence_file,capture_status,inspection_status,notes
+SRC0019,2026-10-23T11:34:19.779066+08:00,https://famousbelgianwaffles.com/,https://famousbelgianwaffles.com/,200,references/website_evidence/20261023_113419_778086/SRC0019.html,Downloaded,Accepted for inspected statements,
+SRC0020,2026-10-23T11:34:21.430283+08:00,https://fruitasholdings.com/franchisee-application/,https://fruitasholdings.com/franchisee-application/,200,references/website_evidence/20261023_113419_778086/SRC0020.html,Downloaded,Accepted for inspected statements,
+SRC0021,2026-10-23T11:34:23.204334+08:00,https://potatocorner.com/franchising/philippines/,https://potatocorner.com/franchising/philippines/,200,references/website_evidence/20261023_113419_778086/SRC0021.html,Downloaded,Accepted for inspected statements,

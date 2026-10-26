@@ -1,0 +1,9 @@
+{
+  "brand_id": "BFC001",
+  "requested_url": "https://www.foodpanda.ph/restaurant/oixq/but-first-coffee-malingap-street",
+  "final_url": "https://www.foodpanda.ph/restaurant/nfx9/but-first-coffee-v-mapa",
+  "http_status": 200,
+  "branch_identity_matches": false,
+  "product_panels_captured": 0,
+  "outcome": "Branch identity mismatch or heading unavailable"
+}

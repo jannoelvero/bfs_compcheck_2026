@@ -1,0 +1,24 @@
+brand_id,brand_name,inclusion_status,Coffee,Fries,Fruit shakes,Milk tea,Pastries,Waffles
+BFC001,"But First, Coffee",Reference,26,0,0,0,2,0
+BFC002,PICKUP COFFEE,Included,6,0,0,0,0,0
+BFC003,Juan Café,Included,3,0,0,0,0,0
+BFC004,TOMO Coffee,Candidate,0,0,0,0,0,0
+BFC005,TOMORO COFFEE,Candidate,6,0,0,0,0,0
+BFC006,Macao Imperial Tea,Included,0,0,0,3,0,0
+BFC007,Black Scoop Cafe,Included,3,0,0,0,0,0
+BFC008,Kurimi Milk Tea Bar,Included,0,0,0,2,0,0
+BFC009,Dunkin',Included,6,0,0,0,0,0
+BFC010,Figaro Coffee,Included,4,0,0,0,0,0
+BFC011,Bo's Coffee,Included,2,0,0,0,0,0
+BFC012,Farron Café,Candidate,0,0,0,0,0,0
+BFC013,Chatime,Included,0,0,0,4,0,0
+BFC014,Gong cha,Included,0,0,0,2,0,0
+BFC015,Famous Belgian Waffles,Included,0,0,0,0,0,3
+BFC016,Fruitas,Included,0,0,3,0,0,0
+BFC017,Potato Corner,Included,0,4,0,0,0,0
+BFC018,BigBrew,Included,4,0,0,0,0,0
+BFC019,Moonleaf,Included,0,0,0,2,0,0
+BFC020,Coffee First,Included,6,0,0,0,0,0
+BFC021,ZUS Coffee,Included,6,0,0,0,0,0
+BFC022,Starbucks,Included,4,0,0,0,0,0
+BFC023,The Coffee Bean & Tea Leaf,Included,27,0,0,0,0,0

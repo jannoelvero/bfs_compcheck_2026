@@ -1,0 +1,11 @@
+{
+  "captured_at": "2026-10-25T07:37:14.598065+08:00",
+  "requested_url": "https://order.butfirstcoffee.ph/",
+  "final_url": "https://order.butfirstcoffee.ph/",
+  "http_status": 200,
+  "inspection_note": "",
+  "branch_selected": false,
+  "checkout_verified": false,
+  "inspection_status": "Pending content review",
+  "observations_imported": 0
+}

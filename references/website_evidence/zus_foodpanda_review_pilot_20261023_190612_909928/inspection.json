@@ -1,0 +1,31 @@
+{
+  "brand_id": "BFC021",
+  "candidate_branch_id": "BRN0004",
+  "existing_source_id": "SRC0036",
+  "captured_at": "2026-10-23T19:06:12.909928+08:00",
+  "requested_url": "https://www.foodpanda.ph/restaurant/gedq/zus-coffee-university-mall-taft/reviews",
+  "final_url": "https://www.foodpanda.ph/restaurant/gedq/zus-coffee-university-mall-taft/reviews",
+  "http_status": 200,
+  "review_panel_found": true,
+  "control_states": [
+    {
+      "id": "NEXTGEN_REVIEWS_TOPREVIEWS",
+      "checked": true
+    },
+    {
+      "id": "NEXTGEN_REVIEWS_SORT_NEWEST",
+      "checked": false
+    },
+    {
+      "id": "NEXTGEN_REVIEWS_SORT_HIGHEST",
+      "checked": false
+    },
+    {
+      "id": "NEXTGEN_REVIEWS_SORT_LOWEST",
+      "checked": false
+    }
+  ],
+  "inspection_note": "",
+  "branch_identity_recheck_required": true,
+  "reviews_imported": 0
+}

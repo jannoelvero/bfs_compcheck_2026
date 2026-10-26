@@ -1,0 +1,3 @@
+brand_id,brand_name,source_id,milestone,start_month,date_precision,baseline_date,completed_years,age_group,analytical_use
+BFC001,"But First, Coffee",SRC0098,Online operations began,2020-08,Month,2026-10-23,6,6 to 10 years,Philippine operating history
+BFC001,"But First, Coffee",SRC0098,First physical store opened,2020-11,Month,2026-10-23,5,1 to 5 years,Physical store operating history

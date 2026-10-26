@@ -1,0 +1,7 @@
+brand_id,section,http_status,tab_clicked,final_url,outcome,text_file
+BFC021,Initial page,200,False,https://zuscoffee.ph/category/drinks/,Captured; content inspection pending,references/website_evidence/zus_bigbrew_products_20261025_074744_836260/zus_initial_page.txt
+BFC018,Milk Tea,200,,,Expected tab not found,
+BFC018,Praf,200,,,Expected tab not found,
+BFC018,Coffee,200,,,Expected tab not found,
+BFC018,Fruit Tea,200,,,Expected tab not found,
+BFC018,Brosty,200,,,Expected tab not found,

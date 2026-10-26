@@ -1,0 +1,10 @@
+{
+  "sample_id": "SMP0070",
+  "branch_id": "BRN0024",
+  "captured_at": "2026-10-23T18:44:56.614196+08:00",
+  "final_url": "https://www.google.com/maps/place/But+First,+Coffee+(BFC)+-+Diliman/@14.642773,121.06008,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b7620999a63b:0x4a676aa594083679!8m2!3d14.642773!4d121.06008!16s%2Fg%2F11px8815zr?entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D",
+  "newest_clicked": false,
+  "review_order_verified": false,
+  "inspection_note": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Newest\", exact=True).first\n",
+  "reviews_imported": 0
+}

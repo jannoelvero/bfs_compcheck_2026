@@ -1,0 +1,3 @@
+capture_id,product_name,size_label,displayed_price_php,larger_size_label,larger_size_surcharge_php,observed_date,verification_status,source_url
+DETAIL0004,Iced Americano,Regular,50.0,UPsize,20.0,2026-10-25,Product options inspected; ounce size unresolved,https://www.foodpanda.ph/restaurant/lwmi/pickup-coffee-eco-oil-kalayaan-lwmi
+DETAIL0014,Iced Americano,Grande,128.0,Venti,27.0,2026-10-25,Product options inspected; ounce size unresolved,https://www.foodpanda.ph/restaurant/r2h5/uncle-brew-prime-cdu-hospital

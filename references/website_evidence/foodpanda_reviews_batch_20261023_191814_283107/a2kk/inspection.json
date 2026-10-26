@@ -1,0 +1,14 @@
+{
+  "brand_id": "BFC022",
+  "existing_source_id": "SRC0037",
+  "vendor_code": "a2kk",
+  "requested_url": "https://www.foodpanda.ph/restaurant/a2kk/starbucks-one-ecom-center/reviews",
+  "final_url": "https://www.foodpanda.ph/restaurant/a2kk/starbucks-one-ecom-center/reviews",
+  "captured_at": "2026-10-23T19:18:15.517048+08:00",
+  "http_status": 200,
+  "review_panel_found": true,
+  "selected_controls": "NEXTGEN_REVIEWS_TOPREVIEWS",
+  "capture_outcome": "Panel captured; inspection pending",
+  "evidence_folder": "references/website_evidence/foodpanda_reviews_batch_20261023_191814_283107/a2kk",
+  "notes": ""
+}

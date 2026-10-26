@@ -1,0 +1,22 @@
+Selected research transcription
+Retrieved date: 2026-10-23
+URL: https://www.foodpanda.ph/restaurant/d7vv/moonleaf-matatag
+Listing: Moonleaf - Matatag
+
+Milk Tea section:
+Pearl Milk Tea: from PHP 144
+
+Description mentions a house special milk tea with chewy Moon Pearls.
+Retrieval service labels the opened version as crawled today.
+No separate promotional price appears on the selected product card.
+
+Earlier SRC0050 names Moon Pearl Milk Tea.
+That earlier record displays a promotional starting price of PHP 80
+and a higher reference price of PHP 100.
+
+Product titles differ. Product identity is not confirmed.
+Sizes, temperatures, and effective dates remain unresolved.
+No chronological price change is established.
+Checkout price and availability are unconfirmed.
+
+This is a selected transcription, not a full page capture.

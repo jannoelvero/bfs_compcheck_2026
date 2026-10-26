@@ -1,0 +1,3 @@
+brand_id,requested_url,captured_at,http_status,final_url,capture_status,evidence_file,notes
+BFC002,https://pickup-coffee.com/pickup-store-locations,2026-10-23T21:35:41.589137+08:00,200,https://pickup-coffee.com/pickup-store-locations,Downloaded; inspection pending,references/website_evidence/competitor_events_20261023_213541_588252/pickup_events.html,
+BFC014,https://gongcha.ph/party-package/,2026-10-23T21:35:43.803534+08:00,200,https://gongcha.ph/party-package/,Downloaded; inspection pending,references/website_evidence/competitor_events_20261023_213541_588252/gongcha_party.html,

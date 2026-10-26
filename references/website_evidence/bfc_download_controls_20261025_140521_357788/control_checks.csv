@@ -1,0 +1,62 @@
+control,click_completed,original_url,final_original_tab_url,open_tab_urls,page_text_changed,inspection_note,capture_error
+App Store,False,https://order.butfirstcoffee.ph/,https://order.butfirstcoffee.ph/,"[""https://order.butfirstcoffee.ph/""]",True,"Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for get_by_role(""button"", name=""App Store"", exact=True)
+    - locator resolved to <button class=""flex flex-1 items-center justify-center gap-1 whitespace-nowrap rounded-lg border border-bfc-border bg-bfc-card py-1.5 text-[10px] font-semibold text-cream transition hover:border-gold/40 hover:bg-bfc-surface"">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class=""absolute inset-0 z-20 flex flex-col items-center justify-center gap-1.5 rounded-2xl bg-bfc-bg/70 backdrop-blur-[2px]"">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class=""absolute inset-0 z-20 flex flex-col items-center justify-center gap-1.5 rounded-2xl bg-bfc-bg/70 backdrop-blur-[2px]"">…</div> intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class=""absolute inset-0 bg-black/50 backdrop-blur-sm""></div> from <div class=""fixed inset-0 z-[60] flex items-center justify-center p-4"">…</div> subtree intercepts pointer events
+  18 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class=""absolute inset-0 bg-black/50 backdrop-blur-sm""></div> from <div class=""fixed inset-0 z-[60] flex items-center justify-center p-4"">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+",
+Play Store,False,https://order.butfirstcoffee.ph/,https://order.butfirstcoffee.ph/,"[""https://order.butfirstcoffee.ph/""]",True,"Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for get_by_role(""button"", name=""Play Store"", exact=True)
+    - locator resolved to <button class=""flex flex-1 items-center justify-center gap-1 whitespace-nowrap rounded-lg bg-gold py-1.5 text-[10px] font-bold text-bfc-ink transition hover:bg-gold-deep"">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class=""absolute inset-0 z-20 flex flex-col items-center justify-center gap-1.5 rounded-2xl bg-bfc-bg/70 backdrop-blur-[2px]"">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class=""absolute inset-0 bg-black/50 backdrop-blur-sm""></div> from <div class=""fixed inset-0 z-[60] flex items-center justify-center p-4"">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    19 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class=""absolute inset-0 bg-black/50 backdrop-blur-sm""></div> from <div class=""fixed inset-0 z-[60] flex items-center justify-center p-4"">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+",

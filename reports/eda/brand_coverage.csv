@@ -1,0 +1,24 @@
+brand_id,brand_name,inclusion_status,branch_directory,menu_pricing,promotions,loyalty_programs,store_assessments,customer_reviews,ordering_channels,franchise_offers,commercial_developments,event_packages
+BFC001,"But First, Coffee",Reference,1,31,0,0,1,7,1,1,2,12
+BFC002,PICKUP COFFEE,Included,1,6,0,1,0,0,2,1,1,0
+BFC003,Juan Café,Included,1,3,0,0,0,0,0,1,0,0
+BFC004,TOMO Coffee,Candidate,0,0,0,0,0,0,0,0,0,0
+BFC005,TOMORO COFFEE,Candidate,1,6,0,0,0,0,1,0,0,0
+BFC006,Macao Imperial Tea,Included,4,3,0,0,0,0,0,1,0,0
+BFC007,Black Scoop Cafe,Included,1,3,0,0,0,0,0,0,0,0
+BFC008,Kurimi Milk Tea Bar,Included,1,2,0,0,1,0,0,0,0,0
+BFC009,Dunkin',Included,1,6,0,0,0,0,0,0,0,0
+BFC010,Figaro Coffee,Included,1,4,0,0,0,0,0,0,0,0
+BFC011,Bo's Coffee,Included,1,2,0,0,0,0,0,1,0,0
+BFC012,Farron Café,Candidate,0,0,0,0,0,0,0,0,0,0
+BFC013,Chatime,Included,1,4,0,0,0,0,0,1,0,0
+BFC014,Gong cha,Included,1,2,0,0,0,0,0,0,1,0
+BFC015,Famous Belgian Waffles,Included,1,3,0,0,1,0,0,5,1,0
+BFC016,Fruitas,Included,1,3,0,0,0,0,0,0,0,0
+BFC017,Potato Corner,Included,1,4,0,0,0,0,0,1,0,0
+BFC018,BigBrew,Included,1,4,0,0,0,0,0,1,0,0
+BFC019,Moonleaf,Included,1,2,0,0,0,0,0,1,1,0
+BFC020,Coffee First,Included,1,6,0,0,0,0,0,1,0,0
+BFC021,ZUS Coffee,Included,1,6,1,1,0,14,1,0,1,0
+BFC022,Starbucks,Included,1,4,0,1,0,15,0,0,0,0
+BFC023,The Coffee Bean & Tea Leaf,Included,1,27,0,0,0,0,0,0,0,0

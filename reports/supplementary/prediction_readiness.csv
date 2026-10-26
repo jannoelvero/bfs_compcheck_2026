@@ -1,0 +1,5 @@
+prediction_target,decision,reason,required_data
+Future comparable menu price,Deferred,Additional captures do not establish a comparable price time series.,Comparable dated prices across enough periods for chronological evaluation.
+Customer comment sentiment,Deferred,Only 36 selected comments; labels remain provisional.,A larger documented sample with reviewed labels and independent evaluation.
+Sales or franchise conversion,Deferred,No recorded sales or conversion outcomes available.,Dated outcomes and inputs available before each outcome.
+Price difference from component prices,Use direct calculation,The result is exactly determined by the documented price formula.,No model required.

@@ -1,0 +1,4 @@
+source_id,captured_at,requested_url,final_url,http_status,evidence_file,capture_status,inspection_status,notes
+SRC0009,2026-10-23T18:23:12.346913+08:00,https://www.blackscoopcafe.com/about-us/,https://www.blackscoopcafe.com/about-us/,406,,Failed,No page content captured,406 Client Error: Not Acceptable for url: https://www.blackscoopcafe.com/about-us/
+SRC0010,2026-10-23T18:23:13.373767+08:00,https://kurimimilkteabar.com/,https://kurimimilkteabar.com/,200,references/website_evidence/20261023_182312_345647/SRC0010.html,Downloaded,"Accepted for product, design, and listed presence",
+SRC0011,2026-10-23T18:23:15.993075+08:00,https://www.dunkin.com.ph/,,,,Failed,No page content captured,"HTTPSConnectionPool(host='www.dunkin.com.ph', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"

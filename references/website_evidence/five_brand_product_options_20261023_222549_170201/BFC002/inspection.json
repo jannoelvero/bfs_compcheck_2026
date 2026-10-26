@@ -1,0 +1,9 @@
+{
+  "brand_id": "BFC002",
+  "requested_url": "https://www.foodpanda.ph/restaurant/cid5/pickup-coffee-bocobo-commercial-center",
+  "final_url": "https://www.foodpanda.ph/restaurant/cid5/pickup-coffee-bocobo-commercial-center",
+  "http_status": 403,
+  "branch_identity_matches": false,
+  "product_panels_captured": 0,
+  "outcome": "Access blocked; batch stopped"
+}

@@ -1,0 +1,4 @@
+source_id,captured_at,requested_url,final_url,http_status,evidence_file,capture_status,inspection_status,notes
+SRC0006,2026-10-23T18:19:47.310642+08:00,https://tomocoffee.ph/about/,,,,Failed,No content available for inspection,"HTTPSConnectionPool(host='tomocoffee.ph', port=443): Max retries exceeded with url: /about/ (Caused by NameResolutionError(""HTTPSConnection(host='tomocoffee.ph', port=443): Failed to resolve 'tomocoffee.ph' ([Errno 8] nodename nor servname provided, or not known)""))"
+SRC0007,2026-10-23T18:19:47.310642+08:00,https://www.tomoro-coffee.ph/,https://www.tomoro-coffee.ph/,200,references/website_evidence/20261023_181947/SRC0007.html,Downloaded,Insufficient substantive content,
+SRC0008,2026-10-23T18:19:47.310642+08:00,https://www.tomoro-coffee.ph/services,https://www.tomoro-coffee.ph/services,200,references/website_evidence/20261023_181947/SRC0008.html,Downloaded,Insufficient substantive content,

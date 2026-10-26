@@ -1,0 +1,4 @@
+source_id,captured_at,requested_url,final_url,http_status,evidence_file,capture_status,inspection_status,notes
+SRC0013,2026-10-23T11:25:54.078808+08:00,https://figarocoffee.com/brand/,https://figarocoffee.com/brand/,200,references/website_evidence/20261023_112554_077441/SRC0013.html,Downloaded,Accepted for inspected statements,
+SRC0014,2026-10-23T11:25:54.947116+08:00,https://www.boscoffee.com/pages/franchise,https://www.boscoffee.com/pages/franchise,200,references/website_evidence/20261023_112554_077441/SRC0014.html,Downloaded,Accepted for inspected statements,
+SRC0015,2026-10-23T11:25:55.441694+08:00,https://www.farroncafe.com.ph/,https://www.farroncafe.com.ph/,404,,Failed,No page content captured,404 Client Error: Not Found for url: https://www.farroncafe.com.ph/

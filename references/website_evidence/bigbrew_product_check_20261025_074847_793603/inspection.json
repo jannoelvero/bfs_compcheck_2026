@@ -1,0 +1,28 @@
+{
+  "captured_at": "2026-10-25T07:48:47.793603+08:00",
+  "http_status": 200,
+  "final_url": "https://bigbrew.com.ph/products",
+  "section_checks": [
+    {
+      "section": "Milk Tea",
+      "outcome": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Milk Tea\", exact=True).first\n    - locator resolved to <button id=\"mobileCategoryBtn8\" onclick=\"selectCategory(this, 'cat8')\" class=\"btn mobile-cat-item category-btn active-category\">\u21b5                        Milk Tea\u21b5                </button>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enable"
+    },
+    {
+      "section": "Praf",
+      "outcome": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Praf\", exact=True).first\n    - locator resolved to <button id=\"mobileCategoryBtn9\" onclick=\"selectCategory(this, 'cat9')\" class=\"btn mobile-cat-item category-btn\">\u21b5                        Praf\u21b5                </button>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - ele"
+    },
+    {
+      "section": "Coffee",
+      "outcome": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Coffee\", exact=True).first\n    - locator resolved to <button id=\"mobileCategoryBtn10\" onclick=\"selectCategory(this, 'cat10')\" class=\"btn mobile-cat-item category-btn\">\u21b5                        Coffee\u21b5                </button>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n     "
+    },
+    {
+      "section": "Fruit Tea",
+      "outcome": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Fruit Tea\", exact=True).first\n    - locator resolved to <button id=\"mobileCategoryBtn11\" onclick=\"selectCategory(this, 'cat11')\" class=\"btn mobile-cat-item category-btn\">\u21b5                        Fruit Tea\u21b5              \u2026</button>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n"
+    },
+    {
+      "section": "Brosty",
+      "outcome": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Brosty\", exact=True).first\n    - locator resolved to <button id=\"mobileCategoryBtn12\" onclick=\"selectCategory(this, 'cat12')\" class=\"btn mobile-cat-item category-btn\">\u21b5                        Brosty\u21b5                </button>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n     "
+    }
+  ],
+  "observations_imported": 0
+}

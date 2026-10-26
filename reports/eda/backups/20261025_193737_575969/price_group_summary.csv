@@ -1,0 +1,44 @@
+brand_id,comparison_group,temperature,size_label_standardised,channel,location_scope,recorded_observations,source_records,distinct_prices,minimum_displayed_price,maximum_displayed_price,assessment,brand_name
+BFC001,Americano,Hot,12oz,Official website,Not stated in captured text,1,1,1,110.0,110.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Americano,Hot,16oz,Official website,Not stated in captured text,1,1,1,120.0,120.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Americano,Iced,12oz,Official ordering website,Head Office context displayed; no branch selected,1,1,1,110.0,110.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Americano,Iced,12oz,Official website,Not stated in captured text,1,1,1,110.0,110.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Americano,Iced,16oz,Official ordering website,Head Office context displayed; no branch selected,1,1,1,120.0,120.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Americano,Iced,16oz,Official website,Not stated in captured text,1,1,1,120.0,120.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Americano,Iced,1L,Official ordering website,Head Office context displayed; no branch selected,1,1,1,199.0,199.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Americano,Iced,1L,Official website,Not stated in captured text,1,1,1,199.0,199.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Americano,Iced,Jar,Official ordering website,Head Office context displayed; no branch selected,1,1,1,165.0,165.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Americano,Iced,Jar,Official website,Not stated in captured text,1,1,1,165.0,165.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Cafe latte,Hot,12oz,Official website,Not stated in captured text,1,1,1,130.0,130.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Cafe latte,Hot,16oz,Official website,Not stated in captured text,1,1,1,140.0,140.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Cafe latte,Iced,12oz,Official website,Not stated in captured text,1,1,1,130.0,130.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Cafe latte,Iced,16oz,Official website,Not stated in captured text,1,1,1,140.0,140.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Cafe latte,Iced,1L,Official website,Not stated in captured text,1,1,1,199.0,199.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Cafe latte,Iced,Jar,Official website,Not stated in captured text,1,1,1,185.0,185.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Spanish latte,Hot,12oz,Official website,Not stated in captured text,1,1,1,130.0,130.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Spanish latte,Hot,16oz,Official website,Not stated in captured text,1,1,1,140.0,140.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Spanish latte,Iced,12oz,Official website,Not stated in captured text,1,1,1,130.0,130.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Spanish latte,Iced,16oz,Official website,Not stated in captured text,1,1,1,140.0,140.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Spanish latte,Iced,1L,Official website,Not stated in captured text,1,1,1,199.0,199.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC001,Spanish latte,Iced,Jar,Official website,Not stated in captured text,1,1,1,185.0,185.0,Sparse recorded group; no automatic outlier classification,"But First, Coffee"
+BFC009,Americano,Hot,12oz,Foodpanda,"Xentro Mall Sampaloc, Manila",1,1,1,115.0,115.0,Sparse recorded group; no automatic outlier classification,Dunkin'
+BFC009,Cafe latte,Hot,Small,Foodpanda,"Xentro Mall Sampaloc, Manila",1,1,1,115.0,115.0,Sparse recorded group; no automatic outlier classification,Dunkin'
+BFC009,Spanish latte,Hot,Medium,Foodpanda,"Xentro Mall Sampaloc, Manila",1,1,1,181.0,181.0,Sparse recorded group; no automatic outlier classification,Dunkin'
+BFC023,Americano,Hot,12oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,140.0,140.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Americano,Hot,16oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,155.0,155.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Americano,Hot,20oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,170.0,170.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Americano,Iced,12oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,140.0,140.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Americano,Iced,16oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,155.0,155.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Americano,Iced,22oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,170.0,170.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Cafe latte,Hot,12oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,135.0,135.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Cafe latte,Hot,16oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,150.0,150.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Cafe latte,Hot,20oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,165.0,165.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Cafe latte,Iced,12oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,135.0,135.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Cafe latte,Iced,16oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,150.0,150.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Cafe latte,Iced,22oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,165.0,165.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Spanish latte,Hot,12oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,175.0,175.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Spanish latte,Hot,16oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,185.0,185.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Spanish latte,Hot,20oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,200.0,200.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Spanish latte,Iced,12oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,175.0,175.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Spanish latte,Iced,16oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,185.0,185.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf
+BFC023,Spanish latte,Iced,22oz,Official website,Official Philippine menu; branch applicability unconfirmed,1,1,1,200.0,200.0,Sparse recorded group; no automatic outlier classification,The Coffee Bean & Tea Leaf

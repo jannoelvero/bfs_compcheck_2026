@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BFC Competitor Check 2026
 
 ## Project objective
@@ -43,3 +44,6 @@ source .venv/bin/activate
 uv pip install -r requirements.txt
 python -m ipykernel install --user --name bfc_compcheck_2026 --display-name "Python BFC Competitor Check 2026"
 jupyter lab# bfs_compcheck_2026
+=======
+# bfc_compcheck_2026
+>>>>>>> origin/main
